@@ -1,0 +1,69 @@
+---
+import Icon from './Icon.astro';
+---
+
+<section class="box skills">
+	<div class="stack gap-2 lg:gap-4">
+		<img src="/assets/icons8-physique-96.png" alt="Illustration de personne en train de coder" width="15%">
+		<h2>Technicien </h2>
+		<p>De part mon statut actuel, je suis en mesure de relever et d'analyser des données pouvant
+		provenir de divers outils de mesures dans les sciences appliquées.
+		</p>
+	</div>
+	<div class="stack gap-2 lg:gap-4">
+		<img src="/assets/icons8-rocket-ship-64.png" alt="Illustration de personne en train de coder" width="15%">
+		<h2>Entreprenant</h2>
+		<p>Du fait de mon âge, des enjeux technologiques et environnementaux en découle mon souhait d'innover 
+		afin d'apporter ma contribution pour changer le monde.
+		</p>
+	</div>
+	<div class="stack gap-2 lg:gap-4">
+		<img src="/assets/icons8-travail-en-équipe-96.png" alt="Illustration de personne en train de coder" width="15%">
+		<h2>Team Player</h2>
+		<p>Travailler en équipe, concevoir et mener à bien un projet en échangeant des connaissances 
+		sont des valeurs me tenant à coeur.
+		</p>
+	</div>
+
+</section>
+
+<style>
+	.box {
+		border: 1px solid var(--gray-800);
+		border-radius: 0.75rem;
+		padding: 1.5rem;
+		background-color: var(--gray-999_40);
+		box-shadow: var(--shadow-sm);
+	}
+
+	.skills {
+		display: flex;
+		flex-direction: column;
+		gap: 3rem;
+	}
+
+	.skills h2 {
+		font-size: var(--text-lg);
+	}
+
+	.skills p {
+		color: var(--gray-400);
+	}
+
+	@media (min-width: 50em) {
+		.box {
+			border-radius: 1.5rem;
+			padding: 2.5rem;
+		}
+
+		.skills {
+			display: grid;
+			grid-template-columns: repeat(3, 1fr);
+			gap: 5rem;
+		}
+
+		.skills h2 {
+			font-size: var(--text-2xl);
+		}
+	}
+</style>
