@@ -1,6 +1,6 @@
 import { defineConfig } from 'astro/config';
 
 // https://astro.build/config
-export default defineConfig({  
-site: 'https://paulemile-hash.github.io',
-base: '/Portfolio',});
+export default defineConfig({
+    site: 'https://JulesGrd.github.io',
+});
