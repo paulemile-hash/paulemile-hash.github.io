@@ -12,7 +12,13 @@ tags:
   - Modélisation 3D
 ---
 # titre
-X
+
+<div style="display:flex; justify-content:center;">
+    <img src="/assets/Charte graphique Thermo-Sun 1.jpg" alt="Illustration Charte graphique" width="40%">
+    <img src="/assets/Charte graphique Thermo-Sun 2.jpg" alt="Illustration Charte graphique" width="60%">
+    <img src="/assets/Charte graphique Thermo-Sun 3.jpg" alt="Illustration Applie" width="40%">
+</div>
+
 ## titre 2
 X
 ### titre 3
