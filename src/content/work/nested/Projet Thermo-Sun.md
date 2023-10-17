@@ -1,7 +1,7 @@
 ---
 title: Projet Thermo-Sun
 publishDate: 2019-10-02 00:00:00
-img: /assets/Projet Domotique.png
+img: /assets/Projet Thermo-Sun.jpg
 img_alt: Cablage de la boxe
 description: Création d'un système de récupération de perte thermiques sous les panneaux solaires.
   
