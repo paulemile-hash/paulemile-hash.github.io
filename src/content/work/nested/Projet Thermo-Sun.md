@@ -44,3 +44,11 @@ Afin d'évaluer au mieux la pertinence de notre projet nous avons réalisé des 
     <p style="margin-left:10px;">
     Pour permettre une meilleur visualisation du prototype, j'ai modéliser un ensemble de pièce permettant l'assemblage du système.</p>
 </div>
+
+### Principe du système
+
+<div style="display:flex; align-items:center;">
+    <img src="/assets/Fonctionement thermo-sun.jpg" alt="Illustration maquette 3D" width="60%" style="margin-right:10px;">
+    <p style="margin-left:10px;">
+    Le principe du système est de de récupérer grâce à un échangeur les échanges thermiques. Puis un système de ventillateur brassera l'aire et la compressera pour augmenter l'agitation moléculaire ce qui fera augmenter le chleur et la convertiera en énergie calorifique pour chauffer une zone.</p>
+</div>
