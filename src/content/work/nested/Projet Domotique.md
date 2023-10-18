@@ -11,8 +11,4 @@ tags:
   - Programation
   - Modélisation 3D
 ---
-# titre
-X
-## titre 2
-X
-### titre 3
+# En cours ...
