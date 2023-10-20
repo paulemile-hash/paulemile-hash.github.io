@@ -17,6 +17,11 @@ personnes. À l'issue de ce week-end, nous avons remporté le 1er prix
 face à 9 autres équipes.
 
 ### Mise en contexte
+
+<div style="display:flex; justify-content:center;">
+    <img src="/assets/Chaine-Thermo-Sun.jpg" alt="Chaine thermo-sun" width="100%">
+</div>
+
 Avec un de mes amis qui voulais monter sa Start-Up dans le photovoltaïque j'ai développer en tant que co-porteur une solution pour récupérer les pertes Thermiques généré par les panneaux solaire afin de l'exploiter. Nous nous sommes donc mis à développer un système trhermodynamique à insérer sous les panneaux solaires. 
 
 
