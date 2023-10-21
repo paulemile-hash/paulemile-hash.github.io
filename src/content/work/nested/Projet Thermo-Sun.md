@@ -57,3 +57,7 @@ Afin d'évaluer au mieux la pertinence de notre projet nous avons réalisé des 
     <p style="margin-left:10px;">
     Le principe du système est de de récupérer grâce à un échangeur les échanges thermiques. Puis un système de ventillateur brassera l'aire et la compressera pour augmenter l'agitation moléculaire ce qui fera augmenter le chleur et la convertiera en énergie calorifique pour chauffer une zone.</p>
 </div>
+
+<div style="display:flex; justify-content:center;">
+    <img src="/assets/Schéma explicative thermo-sun.jpg" alt="Schéma explicative thermo-sun" width="100%">
+</div>
