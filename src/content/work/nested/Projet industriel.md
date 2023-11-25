@@ -11,8 +11,11 @@ tags:
   - Traitement de données
   - Programmation
 ---
+Pendant 24h ce projet avait pour but de répondre à une problématique d'un professionnel. Dans
+notre cas ce fut Herve Rousselot président d’Amgi (épandage professionnel). Nous devions
+trouver une solution permettant de démonter plus facilement chaque bras du drone.
 <div style="text-align:center;">
-    <img src="/assets/chaine-balistique.jpg" alt="Illustration chaine balistique" width="100%">
+    <img src="/assets/Nos solutions.png" alt="Illustration chaine balistique" width="100%">
 </div>
 
 ##### Data Process
