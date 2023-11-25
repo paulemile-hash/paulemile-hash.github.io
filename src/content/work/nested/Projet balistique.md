@@ -19,7 +19,10 @@ tags:
 <div style="display:flex; align-items:center;">
     <img src="/assets/data_process.png" alt="Illustration data_process" width="30%"
     style="margin-right:10px;">
-    <p style="margin-left:10px;">La prise de mesures s'est faite par l'intermédiaire d'un logiciel "PhyPhox". En choisissant un mouvement gyroscopique et une période de 30 secondes, nous relevons les données de corrélation en fonction du temps sur l'axe de notre choix.</p>
+    <p style="margin-left:10px;">
+    Pendant 24h ce projet avait pour but de répondre à une problématique d'un professionnel. Dans
+    notre cas ce fut Herve Rousselot président d’Amgi (épandage professionnel). Nous devions
+    trouver une solution permettant de démonter plus facilement chaque bras du drone.</p>
 </div>
 
 ##### Operating mode
