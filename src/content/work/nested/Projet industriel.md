@@ -34,15 +34,15 @@ Dans l'objectif d'identité de marque, j'ai développé une charte graphique au 
 ### Création Business plan
 
 <div style="display:flex; justify-content:center;">
-    <img src="/assets/Etude clients thermo-sun.jpg" alt="Illustration Charte graphique" width="50%">
-    <img src="/assets/Business thermo-sun.jpg" alt="Illustration Charte graphique" width="50%">
+    <img src="/assets/business AMGI.png" alt="Illustration Charte graphique" width="50%">
+    <img src="/assets/business AMGI t.png" alt="Illustration Charte graphique" width="50%">
 </div>
 Afin d'évaluer au mieux la pertinence de notre projet nous avons réalisé des interviews dans la rue, par appel et contacts professionnels pour des particuliers et industriels. Nous avons également réalisé une simulation de plan budgétaire pour déterminer le coup de création du système, nos coups de ventes et la rentabilité client.
 
 ### Nos 3 solutions
 
 <div style="display:flex; justify-content:center;">
-    <img src="/assets/Node solutions.png" alt="Illustration Charte graphique" width="50%">
+    <img src="/assets/Nos solutions.png" alt="Illustration Charte graphique" width="50%">
 </div>
 
 ### Smartflowers
