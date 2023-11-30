@@ -16,7 +16,7 @@ tags:
 </div>
 
 #### Cahier des charges
-Je devais concevoir une station météo pouvant récupérer et traiter 4 paramètres météorologiques et les afficher de manière les plus agréables possibles sur un site Web. 
+Dans le cadre de ma fin d'année j'ai conçu une station météo pouvant récupérer et traiter 4 paramètres météorologiques et les afficher de manière les plus agréables possibles sur un site Web. 
 Cependant, en vue de créer une corrélation avec ma start-up, j'ai décidé d'ajouter une étude de risques de départ de feux en fonction des paramètres de ma station.
 
 #### Choix des capteurs
