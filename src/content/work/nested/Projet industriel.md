@@ -26,10 +26,8 @@ trouver une solution permettant de démonter plus facilement chaque bras du dron
 
 <div style="display:flex; justify-content:center;">
     <img src="/assets/Charte graphique Thermo-Sun 1.jpg" alt="Illustration Charte graphique" width="50%">
-    <img src="/assets/Charte graphique Thermo-Sun 2.jpg" alt="Illustration Charte graphique" width="50%">
-    <img src="/assets/Charte graphique Thermo-Sun 3.jpg" alt="Illustration Applie" width="50%">
 </div>
-Dans l'objectif d'identité de marque, j'ai développé une charte graphique au tour de Thermo-Sun. Ainsi qu'une application qui a pour but d'être une extension d'application de constructeur de panneaux solaires. Elle permet de visualiser sa consommation mais surtout ses économies réalisées que ce soit d'un point de vue économique ou écologique.
+
 
 ### Création Business plan
 
@@ -37,7 +35,7 @@ Dans l'objectif d'identité de marque, j'ai développé une charte graphique au 
     <img src="/assets/business AMGI.png" alt="Illustration Charte graphique" width="50%">
     <img src="/assets/business AMGI t.png" alt="Illustration Charte graphique" width="50%">
 </div>
-Afin d'évaluer au mieux la pertinence de notre projet nous avons réalisé des interviews dans la rue, par appel et contacts professionnels pour des particuliers et industriels. Nous avons également réalisé une simulation de plan budgétaire pour déterminer le coup de création du système, nos coups de ventes et la rentabilité client.
+Afin d'évaluer au mieux la pertinence de notre projet nous avons réalisé une études budgetaire de notre projet. Nous avons lister et comparer avec différentes fournisseurs les meilleurs prix de compossants pour sortir notre solution au meilleurs prix. Nous avons également réalisé une simulation de plan budgétaire pour déterminer le coup de création du système, nos coups de ventes et la rentabilité client.
 
 ### Nos 3 solutions
 
