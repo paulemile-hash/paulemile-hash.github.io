@@ -1,7 +1,7 @@
 ---
 title: Projet industriel
 publishDate: 2020-03-02 00:00:00
-img: /assets/Solution flexible.png
+img: /assets/Projet Thermo-Sun.jpg
 img_alt: Iridescent ripples of a bright blue and pink liquid
 description: |
   Réalisation d'une solution téchnique pour un industriel
