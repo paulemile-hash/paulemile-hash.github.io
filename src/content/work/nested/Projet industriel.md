@@ -23,6 +23,10 @@ trouver une solution permettant de démonter plus facilement chaque bras du dron
     <img src="/assets/Chaine-AMGI.jpg" alt="Illustration chaine balistique" width="100%">
 </div>
 
+### Cahier des charges
+<div style="display:flex; justify-content:center;">
+    <img src="/assets/Cahier des cherges.png" alt="Illustration Charte graphique" width="50%">
+</div>
 
 ### Nos 3 solutions
 
