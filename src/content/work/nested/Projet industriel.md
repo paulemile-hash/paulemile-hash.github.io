@@ -1,7 +1,7 @@
 ---
 title: Projet industriel
 publishDate: 2020-03-02 00:00:00
-img: /assets/Solution flexible.png
+img: /assets/Projet industriel.png
 img_alt: Iridescent ripples of a bright blue and pink liquid
 description: |
   Réalisation d'une solution téchnique pour un industriel
@@ -15,7 +15,6 @@ tags:
 Pendant 24h ce projet avait pour but de répondre à une problématique d'un professionnel. Dans
 notre cas ce fut Herve Rousselot président d’Amgi (épandage professionnel). Nous devions
 trouver une solution permettant de démonter plus facilement chaque bras du drone.
-### coucou
 
 ##### Mise en contexte
 
