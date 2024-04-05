@@ -39,6 +39,10 @@ J'ai appris à assembler plusieurs capteurs sur la même mon carte Arduino. De p
 <div style="display:flex; justify-content:center;">
     <img src="/assets/decoupe_laser.png" alt="Image 1" width="80%">
     <img src="/assets/Modelspectro.jpg" alt="Image 2" width="80%">
+    <img src="/assets/supportdecuve.png" alt="Image 3" width="80%">
+    <img src="/assets/poignet.png" alt="Image 4" width="80%">
+    <img src="/assets/supportcuve.png" alt="Image 3" width="80%">
+    
 </div>
 
 En tenant compte des différentes contraintes de chaque capteur, j'ai modélisé un assemblage pour loger les capteurs dans des conditions optimales. 
