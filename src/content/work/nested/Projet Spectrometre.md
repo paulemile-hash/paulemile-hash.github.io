@@ -58,7 +58,7 @@ Nous allons réaliser différentes tests pour attester de la fiabilité et de la
 </div>
 <div style="display:flex; align-items:center;">
     <img src="/assets/linearite.png"  width="30%" style="margin-right:10px;">
-    <p style="margin-left:10px;">On effectue 5 mesures et nous comparons leur équation de régression linéaire pour déterminer si nous conservons bien le comportement linéaire de notre mesure, ici, nous pouvons constater que c'est bien le cas d'un point de vue graphique et sur les valeurs de coefficients de l'équation de droite. </p>
+    <p style="margin-left:10px;">On effectue 5 mesures et nous comparons leur équation de régression linéaire pour déterminer si nous conservons bien le comportement linéaire de notre mesure, ici, nous pouvons constater que c'est bien le cas d'un point de vue graphique et sur les valeurs de coefficients de l'équation de droite.</p>
 </div>
 
 #### Page web
