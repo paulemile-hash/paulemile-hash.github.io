@@ -39,12 +39,14 @@ J'ai appris à assembler plusieurs capteurs sur la même mon carte Arduino. De p
 <div style="display:flex; justify-content:center;">
     <img src="/assets/decoupe_laser.png" alt="Image 1" width="50%">
     <img src="/assets/Modelspectro.jpg" alt="Image 2" width="50%">
-    <img src="/assets/supportdecuve.png" alt="Image 3" width="50%">
-    <img src="/assets/poignet.png" alt="Image 4" width="50%">
-    <img src="/assets/supportcuve.png" alt="Image 3" width="50%">
     
 </div>
 
+<div style="display:flex; justify-content:center;">
+    <img src="/assets/supportdecuve.png" alt="Image 3" width="50%">
+    <img src="/assets/poignet.png" alt="Image 4" width="50%">
+    <img src="/assets/supportcuve.png" alt="Image 3" width="50%">
+</div>
 En tenant compte des différentes contraintes de chaque capteur, j'ai modélisé un assemblage pour loger les capteurs dans des conditions optimales. 
 Pour les capteurs de température et d'humidité, j'ai créé un espace ventilé avec des grilles en nid d'abeilles de part et d'autre, et un intérieur noir pour éviter qu'une trop forte luminosité ne fausse la valeur de la température et pour l'anémomètre et la girouette, un espace a été laissé au sommet de la station pour assurer une parfaite circulation de l'air. 
 Le tout est imprimé en acide polylactique (PLA) mais nous pourrions l'améliorer en l'imprimant en ABS, qui est plus résistant. 
