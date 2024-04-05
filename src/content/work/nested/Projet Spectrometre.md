@@ -1,7 +1,7 @@
 ---
 title: Projet Spectrometre
 publishDate: 2020-03-04 00:00:00
-img: /assets/Projet TUT.jpg
+img: /assets/Projet spectrometre.png
 img_alt: Image couverture de projet
 description: |
   Conception d'un sopectrometre
@@ -16,9 +16,8 @@ tags:
     <img src="/assets/Chaine-TUT.jpg" alt="Image 4" width="100%">
 </div>
 
-#### Cahier des charges
-Dans le cadre de ma fin d'année j'ai conçu une station météo pouvant récupérer et traiter 4 paramètres météorologiques et les afficher de manière les plus agréables possibles sur un site Web. 
-Cependant, en vue de créer une corrélation avec ma start-up, j'ai décidé d'ajouter une étude de risques de départ de feux en fonction des paramètres de ma station.
+#### Objectif
+
 
 #### Choix des capteurs
 
