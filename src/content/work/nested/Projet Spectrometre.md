@@ -22,11 +22,19 @@ tags:
 #### Choix des capteurs
 
 <div style="display:flex; justify-content:center;">
+    <img src="/assets/Usermanuel1.png" alt="Image 1" width="40%">
+    <img src="/assets/Usermanuel2.png" alt="Image 2" width="54%">
+    <img src="/assets/Usermanuel3.png" alt="Image 3" width="40%">
+</div>
+La réalisation de ce guide en anglais a pour bute de nous détacher de l'instrument et de permettre à m'importe qui de pouvoir l'utiliser avec toutes les indications necessaires. cela nous demandais un travaille de vilgarisation et de synthétisation.
+
+#### Réalisation guide d'utilisation
+
+<div style="display:flex; justify-content:center;">
     <img src="/assets/anemometre.jpg" alt="Image 1" width="40%">
     <img src="/assets/girouette.jpg" alt="Image 2" width="54%">
     <img src="/assets/DHT-22.jpg" alt="Image 3" width="40%">
 </div>
-J'ai effectué une étude de cas en comparant différents paramètres comme le prix, la sensibilité, les seuils afin de choisir un capteur de température, d'humidité, de force et de direction du vent.
 
 #### Montage 
 
