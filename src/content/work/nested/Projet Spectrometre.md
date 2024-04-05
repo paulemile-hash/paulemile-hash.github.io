@@ -23,7 +23,7 @@ tags:
 
 <div style="display:flex; justify-content:center;">
     <img src="/assets/Usermanuel1.png" alt="Image 1" width="40%">
-    <img src="/assets/Usermanuel2.png" alt="Image 2" width="54%">
+    <img src="/assets/Usermanuel2.png" alt="Image 2" width="40%">
     <img src="/assets/Usermanuel3.png" alt="Image 3" width="40%">
 </div>
 La réalisation de ce guide en anglais a pour bute de nous détacher de l'instrument et de permettre à m'importe qui de pouvoir l'utiliser avec toutes les indications necessaires. cela nous demandais un travaille de vilgarisation et de synthétisation.
@@ -37,11 +37,11 @@ J'ai appris à assembler plusieurs capteurs sur la même mon carte Arduino. De p
 
 #### Conception mécanique
 <div style="display:flex; justify-content:center;">
-    <img src="/assets/decoupe_laser.png" alt="Image 1" width="80%">
-    <img src="/assets/Modelspectro.jpg" alt="Image 2" width="80%">
-    <img src="/assets/supportdecuve.png" alt="Image 3" width="80%">
-    <img src="/assets/poignet.png" alt="Image 4" width="80%">
-    <img src="/assets/supportcuve.png" alt="Image 3" width="80%">
+    <img src="/assets/decoupe_laser.png" alt="Image 1" width="50%">
+    <img src="/assets/Modelspectro.jpg" alt="Image 2" width="50%">
+    <img src="/assets/supportdecuve.png" alt="Image 3" width="50%">
+    <img src="/assets/poignet.png" alt="Image 4" width="50%">
+    <img src="/assets/supportcuve.png" alt="Image 3" width="50%">
     
 </div>
 
