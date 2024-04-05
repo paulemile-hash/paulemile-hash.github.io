@@ -57,8 +57,17 @@ Pour m'assurer de la fiabilité de mes résultats j'ai fait une étude métrolog
 #### Page web
 
 <div style="display:flex; justify-content:center;">
-    <img src="/assets/Site_attention.png" alt="Image 1" width="80%">
-    <img src="/assets/Site_validé.png" alt="Image 2" width="80%">
+    <img src="/assets/Homepage.jpg" alt="Image 1" width="50%">
+    <img src="/assets/Methodepage.jpg" alt="Image 2" width="50%">
+    <img src="/assets/Resultpage.jpg" alt="Image 3" width="50%">
+    <img src="/assets/Metropage.jpg" alt="Image 4" width="50%">
 </div>
 Pour la réalisation de mon site, je l'ai structuré en 3 blocs: "STATIC" avec mes illustrations CSS et Javascript; "TOOLS" pour permettre de convertir les informations de l'Arduino dans ma base de données et de les afficher; et enfin "TEMPLATES" avec tout le squelette du site. Pour finir, l'ensemble des données est moyenné par des diagrammes et cliquables pour voir toutes les données. Et enfin, un indicateur de risque en fonction de la moyenne de chaque paramètre.
 
+#### Produit fini
+
+<div style="display:flex; justify-content:center;">
+    <img src="/assets/phtoGspectro.png" alt="Image 1" width="50%">
+    <img src="/assets/photosupportcuve.png" alt="Image 2" width="50%">
+    <img src="/assets/spectrovu2.png" alt="Image 2" width="50%">
+</div>
