@@ -45,11 +45,21 @@ Pour les capteurs de température et d'humidité, j'ai créé un espace ventilé
 Le tout est imprimé en acide polylactique (PLA) mais nous pourrions l'améliorer en l'imprimant en ABS, qui est plus résistant. 
 
 ##### Métrologie
+
+Nous allons réaliser différentes tests pour attester de la fiabilité et de la precision des mesures de notre instrument.
+
 <div style="display:flex; align-items:center;">
-    <img src="/assets/graphique representation.png" alt="Illustration graphique representation.png" width="30%" style="margin-right:10px;">
-    <p style="margin-left:10px;">La représentation de la fonction a été réalisée par un script Python, de même que la détermination de la vitesse angulaire du pendule.</p>
+    <img src="/assets/etenduedemesure.png"  width="30%" style="margin-right:10px;">
+    <p style="margin-left:10px;">On effectue des tests pour des solutions de concentrations différentes pour voir jusqu'où nous pouvons détecter, et ainsi caliber au mieux pour notre échantillon type.</p>
 </div>
-Pour m'assurer de la fiabilité de mes résultats j'ai fait une étude métrologique de chacun des capteurs.
+<div style="display:flex; align-items:center;">
+    <img src="/assets/deriveinstrumentale.png"  width="30%" style="margin-right:10px;">
+    <p style="margin-left:10px;">On laisse notre instrument allumé durant 10 heures puis nous effectuons à nouveaux une mesure pour constater ou non une influence du tempssur nos résultats, ici nous en observons pas il n'y a donc pas de dérive sur une plage de 10 heures.</p>
+</div>
+<div style="display:flex; align-items:center;">
+    <img src="/assets/linearite.png"  width="30%" style="margin-right:10px;">
+    <p style="margin-left:10px;">On effectue 5 mesures et nous comparons leur équation de régression linéaire pour déterminer si nous conservons bien le comportement linéaire de notre mesure, ici, nous pouvons constater que c'est bien le cas d'un point de vue graphique et sur les valeurs de coefficients de l'équation de droite. </p>
+</div>
 
 #### Page web
 
