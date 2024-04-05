@@ -19,7 +19,7 @@ tags:
 #### Objectif
 
 
-#### Choix des capteurs
+#### Rédaction guide d'utilisation
 
 <div style="display:flex; justify-content:center;">
     <img src="/assets/Usermanuel1.png" alt="Image 1" width="40%">
@@ -28,14 +28,6 @@ tags:
 </div>
 La réalisation de ce guide en anglais a pour bute de nous détacher de l'instrument et de permettre à m'importe qui de pouvoir l'utiliser avec toutes les indications necessaires. cela nous demandais un travaille de vilgarisation et de synthétisation.
 
-#### Réalisation guide d'utilisation
-
-<div style="display:flex; justify-content:center;">
-    <img src="/assets/anemometre.jpg" alt="Image 1" width="40%">
-    <img src="/assets/girouette.jpg" alt="Image 2" width="54%">
-    <img src="/assets/DHT-22.jpg" alt="Image 3" width="40%">
-</div>
-
 #### Montage 
 
 <div style="display:flex; justify-content:center;">
@@ -43,10 +35,10 @@ La réalisation de ce guide en anglais a pour bute de nous détacher de l'instru
 </div>
 J'ai appris à assembler plusieurs capteurs sur la même mon carte Arduino. De plus, afin de connecter les capteurs de vents qui étaient en sortie RJ11, j'ai dû assembler et souder une plaquette d'intervalle Grove/Arduino.
 
-#### Modélisation
+#### Conception mécanique
 <div style="display:flex; justify-content:center;">
-    <img src="/assets/Station_1.png" alt="Image 1" width="80%">
-    <img src="/assets/Station_2.png" alt="Image 2" width="80%">
+    <img src="/assets/decoupe_laser.png" alt="Image 1" width="80%">
+    <img src="/assets/Modelspectro.jpg" alt="Image 2" width="80%">
 </div>
 
 En tenant compte des différentes contraintes de chaque capteur, j'ai modélisé un assemblage pour loger les capteurs dans des conditions optimales. 
