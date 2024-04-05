@@ -44,11 +44,10 @@ En tenant compte des différentes contraintes de chaque capteur, j'ai modélisé
 Pour les capteurs de température et d'humidité, j'ai créé un espace ventilé avec des grilles en nid d'abeilles de part et d'autre, et un intérieur noir pour éviter qu'une trop forte luminosité ne fausse la valeur de la température et pour l'anémomètre et la girouette, un espace a été laissé au sommet de la station pour assurer une parfaite circulation de l'air. 
 Le tout est imprimé en acide polylactique (PLA) mais nous pourrions l'améliorer en l'imprimant en ABS, qui est plus résistant. 
 
-#### Métrologie 
-<div style="display:flex; justify-content:center;">
-    <img src="/assets/supportdecuve.png" alt="Image 3" width="30%">
-    <img src="/assets/poignet.png" alt="Image 4" width="30%">
-    <img src="/assets/supportcuve.png" alt="Image 3" width="30%">
+##### Métrologie
+<div style="display:flex; align-items:center;">
+    <img src="/assets/graphique representation.png" alt="Illustration graphique representation.png" width="30%" style="margin-right:10px;">
+    <p style="margin-left:10px;">La représentation de la fonction a été réalisée par un script Python, de même que la détermination de la vitesse angulaire du pendule.</p>
 </div>
 Pour m'assurer de la fiabilité de mes résultats j'ai fait une étude métrologique de chacun des capteurs.
 
