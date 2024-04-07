@@ -19,20 +19,11 @@ tags:
 #### Objectif
 
 
-#### Rédaction guide d'utilisation
-
-<div style="display:flex; justify-content:center;">
-    <img src="/assets/Usermanuel1.png" alt="Image 1" width="40%">
-    <img src="/assets/Usermanuel2.png" alt="Image 2" width="40%">
-    <img src="/assets/Usermanuel3.png" alt="Image 3" width="40%">
-</div>
-La réalisation de ce guide en anglais a pour bute de nous détacher de l'instrument et de permettre à m'importe qui de pouvoir l'utiliser avec toutes les indications necessaires. cela nous demandais un travaille de vilgarisation et de synthétisation.
-
 
 #### Conception mécanique
 <div style="display:flex; justify-content:center;">
-    <img src="/assets/decoupe_laser.png" alt="Image 1" width="40%">
-    <img src="/assets/Modelspectro.jpg" alt="Image 2" width="40%">
+    <img src="/assets/decoupe_laser.png" alt="Image 1" width="30%">
+    <img src="/assets/Modelspectro.jpg" alt="Image 2" width="30%">
     
 </div>
 <div style="display:flex; justify-content:center;">
@@ -53,11 +44,11 @@ Nous allons réaliser différentes tests pour attester de la fiabilité et de la
     <p style="margin-left:10px;">On effectue des tests pour des solutions de concentrations différentes pour voir jusqu'où nous pouvons détecter, et ainsi caliber au mieux pour notre échantillon type.</p>
 </div>
 <div style="display:flex; align-items:center;">
-    <img src="/assets/deriveinstrumentale.png"  width="30%" style="margin-right:10px;">
+    <img src="/assets/deriveinstrumentale.png"  width="50%" style="margin-right:10px;">
     <p style="margin-left:10px;">On laisse notre instrument allumé durant 10 heures puis nous effectuons à nouveaux une mesure pour constater ou non une influence du tempssur nos résultats, ici nous en observons pas il n'y a donc pas de dérive sur une plage de 10 heures.</p>
 </div>
 <div style="display:flex; align-items:center;">
-    <img src="/assets/linearite.png"  width="30%" style="margin-right:10px;">
+    <img src="/assets/linearite.png"  width="50%" style="margin-right:10px;">
     <p style="margin-left:10px;">On effectue 5 mesures et nous comparons leur équation de régression linéaire pour déterminer si nous conservons bien le comportement linéaire de notre mesure, ici, nous pouvons constater que c'est bien le cas d'un point de vue graphique et sur les valeurs de coefficients de l'équation de droite.</p>
 </div>
 
@@ -77,6 +68,18 @@ Pour la réalisation de mon site, je l'ai structuré en 3 blocs: "STATIC" avec m
 
 <div style="display:flex; justify-content:center;">
     <img src="/assets/photoGspectro.png" alt="Image 1" width="50%">
+</div>
+<div style="display:flex; justify-content:center;">
     <img src="/assets/photosupportcuve.png" alt="Image 2" width="50%">
     <img src="/assets/spectrovuH2.png" alt="Image 2" width="50%">
 </div>
+
+#### Rédaction guide d'utilisation
+
+<div style="display:flex; justify-content:center;">
+    <img src="/assets/Usermanuel1.png" alt="Image 1" width="40%">
+    <img src="/assets/Usermanuel2.png" alt="Image 2" width="40%">
+    <img src="/assets/Usermanuel3.png" alt="Image 3" width="40%">
+</div>
+La réalisation de ce guide en anglais a pour bute de nous détacher de l'instrument et de permettre à m'importe qui de pouvoir l'utiliser avec toutes les indications necessaires. cela nous demandais un travaille de vilgarisation et de synthétisation.
+
