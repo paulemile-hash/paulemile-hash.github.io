@@ -13,7 +13,7 @@ tags:
   - Principes chimiques
 ---
 <div style="display:flex; justify-content:center;">
-    <img src="/assets/Chaine-TUT.jpg" alt="Image 4" width="100%">
+    <img src="/assets/Chaine-spectro.png" alt="Image 4" width="100%">
 </div>
 
 #### Objectif
