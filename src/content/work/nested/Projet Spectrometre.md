@@ -13,17 +13,17 @@ tags:
   - Principes chimiques
 ---
 <div style="display:flex; justify-content:center;">
-    <img src="/assets/Chaine-spectro.png" alt="Image 4" width="100%">
+    <img src="/assets/Chaine-spectro.png" alt="Image 4" width="120%">
 </div>
 
 #### Objectif
-
+Ce projet, avait pour but de concevoir entièrement un spectromètre afin de doser les Nitirites présent dans l'eau de la Loire.Ainsi, qu'une étude métrologie pour confirmer la fiabilité de notre instument. Le tout relatée sur une page Web.
 
 
 #### Conception mécanique
 <div style="display:flex; justify-content:center;">
     <img src="/assets/decoupe_laser.png" alt="Image 1" width="30%">
-    <img src="/assets/Modelspectro.jpg" alt="Image 2" width="30%">
+    <img src="/assets/Modelspectro.jpg" alt="Image 2" width="30%"
     
 </div>
 <div style="display:flex; justify-content:center;">
