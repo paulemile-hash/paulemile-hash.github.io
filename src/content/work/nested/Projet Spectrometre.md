@@ -120,6 +120,6 @@ La réalisation de ce guide en anglais a pour bute de nous détacher de l'instru
 #### Poster de vulgarisation
 
 <div style="display:flex; align-items:center;">
-    <img src="/assets/Posterspectro.png"  width="80%" style="margin-right:10px;">
+    <img src="/assets/Posterspectro.png"  width="60%" style="margin-right:10px;">
     <p style="margin-left:10px;"> Réalisation d'un poster de vulgarisation scientifique pour résumer le projet de manière graphique. Ce poster a pour but de permettre la compréhension du projet pour le plus grand nombre. </p>
 </div>
