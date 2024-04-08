@@ -68,7 +68,7 @@ Le tout est imprimé en acide polylactique (PLA) mais nous pourrions l'améliore
 ### Chimie
 
 <div style="display:flex; align-items:center;">
-    <img src="/assets/photosupportcuve.png"  width="30%" style="margin-right:10px;">
+    <img src="/assets/photosupportcuve.png"  width="50%" style="margin-right:10px;">
     <p style="margin-left:10px;"> Réalisation d'une gamme de solutions étalon par ajout dosé à partir d'une solution de 1 mg/L de Nitrites. Ainsi, nous avons de solutions de 0.07; 0.05; 0.03; 0.01; et 0.005 mg/L d'entourer notre solution d'eau de la Loire. </p>
 </div>
 
