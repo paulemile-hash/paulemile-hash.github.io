@@ -62,7 +62,7 @@ Le tout est imprimé en acide polylactique (PLA) mais nous pourrions l'améliore
 
 <div style="display:flex; align-items:center;">
     <img src="/assets/spectrovuH2.png"  width="30%" style="margin-right:10px;">
-    <p style="margin-left:10px;"> Branchement de l'arduino, du boton et de l'écran dans le compartiments éléctronique.  </p>
+    <p style="margin-left:10px;"> Branchement de l'arduino, du boton et de l'écran dans le compartiments éléctronique. Ainsi, la tension de la photodiode -> entrée analogique A0 -> Amplificateur Opérationnel -> Tension de sortie de A0 -> filtre RC -> tension de sortie du filtre RC -> Sortie de l'arduino (traitement de la donnée) -> Ecran analogique</p>
 </div>
 
 ### Chimie
