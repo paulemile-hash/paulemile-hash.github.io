@@ -53,7 +53,7 @@ Le tout est imprimé en acide polylactique (PLA) mais nous pourrions l'améliore
     <img src="/assets/supportcuve.png" alt="Image 3" width="30%">
 </div>
 
-### Conceptio circuit éléctroniques
+### Conception circuit éléctroniques
 
 <div style="display:flex; align-items:center;">
     <img src="/assets/Circuitimprimé.png"  width="30%" style="margin-right:10px;">
@@ -63,6 +63,13 @@ Le tout est imprimé en acide polylactique (PLA) mais nous pourrions l'améliore
 <div style="display:flex; align-items:center;">
     <img src="/assets/spectrovuH2.png"  width="30%" style="margin-right:10px;">
     <p style="margin-left:10px;"> Branchement de l'arduino, du boton et de l'écran dans le compartiments éléctronique.  </p>
+</div>
+
+### Chimie
+
+<div style="display:flex; align-items:center;">
+    <img src="/assets/photosupportcuve.png"  width="30%" style="margin-right:10px;">
+    <p style="margin-left:10px;"> Réalisation d'une gamme de solutions étalon par ajout dosé à partir d'une solution de 1 mg/L de Nitrites. Ainsi, nous avons de solutions de 0.07; 0.05; 0.03; 0.01; et 0.005 mg/L d'entourer notre solution d'eau de la Loire. </p>
 </div>
 
 ##### Métrologie
