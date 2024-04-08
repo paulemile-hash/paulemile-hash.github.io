@@ -117,3 +117,7 @@ Pour la réalisation de mon site, je l'ai structuré en 3 blocs: "STATIC" avec m
 </div>
 La réalisation de ce guide en anglais a pour bute de nous détacher de l'instrument et de permettre à m'importe qui de pouvoir l'utiliser avec toutes les indications necessaires. cela nous demandais un travaille de vilgarisation et de synthétisation.
 
+<div style="display:flex; align-items:center;">
+    <img src="/assets/Posterspectro.png"  width="50%" style="margin-right:10px;">
+    <p style="margin-left:10px;"> Réalisation d'un poster de vulgarisation scientifique pour résumer le projet de manière graphique. Ce poster a pour but de permettre la compréhension du projet pour le plus grand nombre. </p>
+</div>
