@@ -56,18 +56,21 @@ L’application a pour but d’être extrêmement synthétique afin de comprendr
 L’application permet, également, de faire de la maintenance sur les possibles dérèglements puisque nous pourrons être en mesure de constater les fluctuations de chaque station individuellement et donc de signaler les évolutions anormales. Elle est pour le moment en voie de développement à l’aide du framework flutter de Google et codé avec du « ya », « dart », « yaml », « HTML », « python », et du « C ».
 
 ###  Création Application
+
+<div style="display:flex; align-items:center;">
+    <img src="/assets/stationvf.png" alt="Illustration maquette 3D" width="65%" style="margin-right:10px;">
+    <p style="margin-left:10px;">La page d'acceuil permet d'informer sur les grandes principes du projet.</p>
+</div>
+
 <div style="display:flex; justify-content:center;">
-    <img src="/assets/HomesiteF.png" alt="Illustration Widget" width="50%">
-    <p> La page d'acceuil permet d'informer sur les grandes principes du projet.</p>
     <img src="/assets/EspacesiteF.png" alt="Illustration application" width="50%">
     <img src="/assets/Espacesite2F.png" alt="Illustration Exemple plan station" width="50%">
     <p> Nous avons 2 types de profls en fonction de si l'utilisateur est un professionnel comme un pompier ou si c'est particulier. Cela permettra de divulger des informations différentes.</p>
 </div>
 
-
 #### Création Business plan
 <div style="display:flex; align-items:center;">
-    <img src="/assets/Exemple plan station.jpg" alt="Illustration Exemple plan station" width="60%" style="margin-right:10px;">
+    <img src="/assets/HomesiteF.png" alt="Illustration Exemple plan station" width="60%" style="margin-right:10px;">
     <p style="margin-left:10px;">
     Afin de couvrir au mieux une zone, nous avons créé un système de maillage pour assurer une communication et fiable et optimale. 
     De plus, nous avons estimé les coûts pour une forêt test. Pour cela, nous avons choisi la forêt domaniale de Blois. En ciblant les zones à fort risque, nous avons estimé la nécessité de 13 stations. Cela nous a donc permis de dresser un business plan en comptant les entrées et sorties d'argent.
