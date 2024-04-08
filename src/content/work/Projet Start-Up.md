@@ -32,6 +32,13 @@ Ayant été témoin de l'augmentation des incendies, j'ai profité d'un week-end
     </p>
 </div>
 
+<div style="display:flex; align-items:center;">
+    <img src="/assets/dataserveur.png" alt="Illustration Exemple plan station" width="50%" style="margin-right:10px;">
+    <p style="margin-left:10px;"> Création d'une schéma de serveur afin d'assurer le flux de donnée et leur sécuritée avec un serveur Firewall.
+    
+    </p>
+</div>
+
 #### Niveaux de risques
 <div style="display:flex; align-items:center;">
     <img src="/assets/seuilsderisques.png" alt="Illustration Exemple plan station" width="70%" style="margin-right:10px;">
@@ -60,7 +67,7 @@ L’application permet, également, de faire de la maintenance sur les possibles
 
 #### Création maquette 3D
 <div style="display:flex; align-items:center;">
-    <img src="/assets/stationvf.png" alt="Illustration maquette 3D" width="60%" style="margin-right:10px;">
+    <img src="/assets/stationvf.png" alt="Illustration maquette 3D" width="65%" style="margin-right:10px;">
     <p style="margin-left:10px;">L'objectif de cette conception est de fournir les meilleurs conditions de mesures pour nos différents capteurs toute en assurant une soliditée et fiabilitée. </p>
 </div>
 
