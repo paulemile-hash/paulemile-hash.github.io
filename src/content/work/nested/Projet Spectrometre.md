@@ -90,10 +90,9 @@ Pour la réalisation de mon site, je l'ai structuré en 3 blocs: "STATIC" avec m
 
 <div style="display:flex; justify-content:center;">
     <img src="/assets/photoGspectro.png" alt="Image 1" width="50%">
-</div>
-<div style="display:flex; justify-content:center;">
     <img src="/assets/spectrovuH2.png" alt="Image 2" width="50%">
 </div>
+
 
 #### Rédaction guide d'utilisation
 
