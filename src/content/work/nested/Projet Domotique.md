@@ -11,4 +11,14 @@ tags:
   - Programation
   - Modélisation 3D
 ---
-# En cours ...
+#### Objectif
+
+#### Matériel
+
+#### Installation Home Assistant
+
+#### Conception mécanique
+<div style="display:flex; justify-content:center;">
+    <img src="/assets/boite1dom.png" alt="Image 1" width="50%">
+    <img src="/assets/boite2dom.png" alt="Image 2" width="50%">
+</div>
