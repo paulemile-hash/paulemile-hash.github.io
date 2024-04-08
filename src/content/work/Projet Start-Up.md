@@ -34,7 +34,7 @@ Ayant été témoin de l'augmentation des incendies, j'ai profité d'un week-end
 
 #### Niveaux de risques
 <div style="display:flex; align-items:center;">
-    <img src="/assets/seuilsderisques.png" alt="Illustration Exemple plan station" width="50%" style="margin-right:10px;">
+    <img src="/assets/seuilsderisques.png" alt="Illustration Exemple plan station" width="70%" style="margin-right:10px;">
     <p style="margin-left:10px;">
     Mise en place de niveaux de risques en fonction d'une sommes de paramètres météo calculé avec un modèle mathématique et du machine learning 
     </p>
@@ -60,8 +60,8 @@ L’application permet, également, de faire de la maintenance sur les possibles
 
 #### Création maquette 3D
 <div style="display:flex; align-items:center;">
-    <img src="/assets/maquette 3D.jpg" alt="Illustration maquette 3D" width="60%" style="margin-right:10px;">
-    <p style="margin-left:10px;">Pour la station nous avons modélisé et imprimé un design à l'échelle 1/20. Ce dernier a actuellement beaucoup évolué pour répondre au mieux aux différentes contraintes</p>
+    <img src="/assets/stationvf.png" alt="Illustration maquette 3D" width="60%" style="margin-right:10px;">
+    <p style="margin-left:10px;">L'objectif de cette conception est de fournir les meilleurs conditions de mesures pour nos différents capteurs toute en assurant une soliditée et fiabilitée. </p>
 </div>
 
 #### Suite avec Université 
