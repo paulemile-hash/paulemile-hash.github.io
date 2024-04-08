@@ -30,7 +30,7 @@ En tenant compte des différentes contraintes de chaque capteur et du principe d
 </div>
 
 <div style="display:flex; align-items:center;">
-    <img src="/assets/decoupe_laser.png"  width="30%" style="margin-right:10px;">
+    <img src="/assets/decoupe_laser.png"  width="40%" style="margin-right:10px;">
     <p style="margin-left:10px;">Réalisation du fichier .svg de découpe par CNC concentratrice de CO2 (Commande Numérique par Calculateur) sur des plaques de bois de 5mm. Pour profiter de ses caractères de Solidité, précision et fiabilitée.  </p>
 </div>
 
