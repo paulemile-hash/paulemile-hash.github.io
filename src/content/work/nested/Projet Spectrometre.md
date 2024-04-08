@@ -26,12 +26,12 @@ En tenant compte des différentes contraintes de chaque capteur et du principe d
 
 <div style="display:flex; align-items:center;">
     <img src="/assets/Modelspectro.jpg"  width="30%" style="margin-right:10px;">
-    <p style="margin-left:10px;">Conception du fichier de modélisation 3D global pour visualiser et discuter des propriété et de l'apparence du boitié sous Fusion 360 </p>
+    <p style="margin-left:10px;">Conception du fichier de modélisation 3D global sous Fusion 360 pour visualiser et discuter des propriétées, de l'apparence du boitié afin de déterminer les méthodes de conception à prioriser. </p>
 </div>
 
 <div style="display:flex; align-items:center;">
-    <img src="/assets/decoup_laser.png"  width="30%" style="margin-right:10px;">
-    <p style="margin-left:10px;">Ce dernier ce compose de parois extérieur en bois réaliser avec une CNC concentratrice de CO2 (Commande Numérique par Calculateur) pour ses caractères de Solidité, précision et fiabilitée. </p>
+    <img src="/assets/decoupe_laser.png"  width="30%" style="margin-right:10px;">
+    <p style="margin-left:10px;">Réalisation du fichier .svg de découpe par CNC concentratrice de CO2 (Commande Numérique par Calculateur) sur des plaques de bois de 5mm. Pour profiter de ses caractères de Solidité, précision et fiabilitée.  </p>
 </div>
 
 <div style="display:flex; justify-content:center;">
