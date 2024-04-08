@@ -57,9 +57,11 @@ L’application permet, également, de faire de la maintenance sur les possibles
 
 ###  Création Application
 <div style="display:flex; justify-content:center;">
-    <img src="/assets/Homesite.png" alt="Illustration Widget" width="50%">
+    <img src="/assets/HomesiteF.png" alt="Illustration Widget" width="50%">
+    <p> La page d'acceuil permet d'informer sur les grandes principes du projet.</p>
     <img src="/assets/EspacesiteF.png" alt="Illustration application" width="50%">
     <img src="/assets/Espacesite2F.png" alt="Illustration Exemple plan station" width="50%">
+    <p> Nous avons 2 types de profls en fonction de si l'utilisateur est un professionnel comme un pompier ou si c'est particulier. Cela permettra de divulger des informations différentes.</p>
 </div>
 
 
