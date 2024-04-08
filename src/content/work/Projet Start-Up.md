@@ -71,7 +71,7 @@ L’application permet, également, de faire de la maintenance sur les possibles
     <img src="/assets/EspacesiteF.png" alt="Illustration application" width="50%">
     <img src="/assets/Espacesite2F.png" alt="Illustration Exemple plan station" width="50%">
 </div>
-Nous avons 2 types de profls en fonction de si l'utilisateur est un professionnel comme un pompier ou si c'est particulier. Cela permettra de divulger des informations différentes.
+Nous avons 2 types de profils en fonction de si l'utilisateur est un professionnel comme un pompier ou si c'est particulier. Cela permettra de divulger des informations différentes.
 
 #### Création Business plan
 <div style="display:flex; align-items:center;">
@@ -86,6 +86,14 @@ Nous avons 2 types de profls en fonction de si l'utilisateur est un professionne
 <div style="display:flex; align-items:center;">
     <img src="/assets/stationvf.png" alt="Illustration maquette 3D" width="65%" style="margin-right:10px;">
     <p style="margin-left:10px;">L'objectif de cette conception est de fournir les meilleurs conditions de mesures pour nos différents capteurs toute en assurant une soliditée et fiabilitée. </p>
+</div>
+
+#### Charte Graphique
+<div style="display:flex; justify-content:center;">
+    <img src="/assets/Graphique1.png" alt="Illustration application" width="50%">
+    <img src="/assets/Graphique2.png" alt="Illustration Exemple plan station" width="50%">
+    <img src="/assets/Graphique3.png" alt="Illustration Exemple plan station" width="50%">
+    <img src="/assets/Graphique4.png" alt="Illustration Exemple plan station" width="50%">
 </div>
 
 #### Suite avec Université 
