@@ -42,18 +42,26 @@ Ayant été témoin de l'augmentation des incendies, j'ai profité d'un week-end
 <div style="display:flex; align-items:center;">
     <img src="/assets/seuilsderisques.png" alt="Illustration Exemple plan station" width="70%" style="margin-right:10px;">
     <p style="margin-left:10px;">
-    Mise en place de niveaux de risques en fonction d'une sommes de paramètres météo calculé avec un modèle mathématique et du machine learning 
+    Mise en place de niveaux de risques en fonction d'une sommes de paramètres météo calculé avec un modèle mathématique et du machine learning.
     </p>
 </div>
 
 ###  Création Application
 <div style="display:flex; justify-content:center;">
-    <img src="/assets/Widget.jpg" alt="Illustration Widget" width="40%">
-    <img src="/assets/Application.jpg" alt="Illustration application" width="60%">
-    <img src="/assets/Chartre graphique.jpg" alt="Illustration Exemple plan station" width="40%">
+    <img src="/assets/Widget.jpg" alt="Illustration Widget" width="50%">
+    <img src="/assets/Application.jpg" alt="Illustration application" width="50%">
+    <img src="/assets/Chartre graphique.jpg" alt="Illustration Exemple plan station" width="50%">
 </div>
 L’application a pour but d’être extrêmement synthétique afin de comprendre au premier coup d’œil s'il y a un risque ou non. Les différents facteurs de risques sont visibles sur la première page et il est également possible d’observer sur ces facteurs de quelles stations provient les données ce qui permet de savoir vers quelle station se produit le risque.
 L’application permet, également, de faire de la maintenance sur les possibles dérèglements puisque nous pourrons être en mesure de constater les fluctuations de chaque station individuellement et donc de signaler les évolutions anormales. Elle est pour le moment en voie de développement à l’aide du framework flutter de Google et codé avec du « ya », « dart », « yaml », « HTML », « python », et du « C ».
+
+###  Création Application
+<div style="display:flex; justify-content:center;">
+    <img src="/assets/Homesite.png" alt="Illustration Widget" width="50%">
+    <img src="/assets/EspacesiteF.png" alt="Illustration application" width="50%">
+    <img src="/assets/Espacesite2F.png" alt="Illustration Exemple plan station" width="50%">
+</div>
+
 
 #### Création Business plan
 <div style="display:flex; align-items:center;">
