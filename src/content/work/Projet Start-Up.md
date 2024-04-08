@@ -24,6 +24,14 @@ Ayant été témoin de l'augmentation des incendies, j'ai profité d'un week-end
     <img src="/assets/chaine-start-up.png" alt="Illustration chaine élément" width="100%">
 </div>
 
+#### Principe de fonctionnement 
+<div style="display:flex; align-items:center;">
+    <img src="/assets/shémalora.png" alt="Illustration Exemple plan station" width="50%" style="margin-right:10px;">
+    <p style="margin-left:10px;">
+    L’idée derrière cette chaine d’acquisition est de connecter les capteurs à des ESP23 qui communiqueront via liaison UART à des cartes de développement LoRa Wio E5mini et communiqueront via réseau LoRa et “ THE THINGS Network” sur une carte Raspberry pi qui s’occupera d’enregistrer les infos dans un fichier CSV et afficher via Node RED sur le site internet ou applications. 
+    </p>
+</div>
+
 ###  Création Application
 <div style="display:flex; justify-content:center;">
     <img src="/assets/Widget.jpg" alt="Illustration Widget" width="40%">
