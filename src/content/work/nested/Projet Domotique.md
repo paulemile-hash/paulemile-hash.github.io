@@ -13,9 +13,19 @@ tags:
 ---
 #### Objectif
 
-#### Matériel
+Ce projet de création personnel a pour iobjectif de créer une boxe domotique afin de pouvoir centraliser différents objets électroniques. Par ailleurs, a pour but d'être plus économique que celle du commerce. Pour cela, je vais utiliser une carte Raspberry et ESP Home.
 
 #### Installation Home Assistant
+
+<div style="display:flex; align-items:center;">
+    <img src="/assets/schémadom.png"  width="60%" style="margin-right:10px;">
+    <p style="margin-left:10px;"> Principe de communication entre des appareils WiFi, la carte Raspberry et le Cloud Home Assistant.</p>
+</div>
+
+<div style="display:flex; align-items:center;">
+    <img src="/assets/configuration.png"  width="60%" style="margin-right:10px;">
+    <p style="margin-left:10px;"> </p>
+</div>
 
 #### Conception mécanique
 <div style="display:flex; justify-content:center;">
