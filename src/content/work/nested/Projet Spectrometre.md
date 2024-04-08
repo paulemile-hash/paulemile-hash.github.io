@@ -32,6 +32,11 @@ Ce projet, avait pour but de concevoir entièrement un spectromètre afin de dos
 
 ### Conceptio circuit éléctroniques
 
+<div style="display:flex; align-items:center;">
+    <img src="/assets/Circuitimprimé.png"  width="30%" style="margin-right:10px;">
+    <p style="margin-left:10px;"> - Un AO différentiel (Ajouter du gain) - Pont diviseur de tension - filtre RC pass-bas d'ordre 1 - entrées de corants - pins bananes pour l'alimentation extêrne  </p>
+</div>
+
 #### Conception mécanique
 
 En tenant compte des différentes contraintes de chaque capteur et du principe de mesure optique, j'ai conçue un boitié à la fois compact, solide, impèrméable à la lumière et fonctionnel.
@@ -89,8 +94,8 @@ Pour la réalisation de mon site, je l'ai structuré en 3 blocs: "STATIC" avec m
 #### Produit fini
 
 <div style="display:flex; justify-content:center;">
-    <img src="/assets/photoGspectro.png" alt="Image 1" width="50%">
-    <img src="/assets/spectrovuH2.png" alt="Image 2" width="50%">
+    <img src="/assets/photoGspectro.png" alt="Image 1" width="30%">
+    <img src="/assets/spectrovuH2.png" alt="Image 2" width="30%">
 </div>
 
 
