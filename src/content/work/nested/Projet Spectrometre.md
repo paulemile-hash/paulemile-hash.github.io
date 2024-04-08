@@ -21,18 +21,25 @@ Ce projet, avait pour but de concevoir entièrement un spectromètre afin de dos
 
 
 #### Conception mécanique
-<div style="display:flex; justify-content:center;">
-    <img src="/assets/decoupe_laser.png" alt="Image 1" width="30%">
-    <img src="/assets/Modelspectro.jpg" alt="Image 2" width="30%"
-    
+
+En tenant compte des différentes contraintes de chaque capteur et du principe de mesure optique, j'ai conçue un boitié à la fois compact, solide, impèrméable à la lumière et fonctionnel.
+
+<div style="display:flex; align-items:center;">
+    <img src="/assets/Modelspectro.jpg"  width="30%" style="margin-right:10px;">
+    <p style="margin-left:10px;">Conception du fichier de modélisation 3D global pour visualiser et discuter des propriété et de l'apparence du boitié sous Fusion 360 </p>
 </div>
+
+<div style="display:flex; align-items:center;">
+    <img src="/assets/decoup_laser.png"  width="30%" style="margin-right:10px;">
+    <p style="margin-left:10px;">Ce dernier ce compose de parois extérieur en bois réaliser avec une CNC concentratrice de CO2 (Commande Numérique par Calculateur) pour ses caractères de Solidité, précision et fiabilitée. </p>
+</div>
+
 <div style="display:flex; justify-content:center;">
-    <img src="/assets/supportdecuve.png" alt="Image 3" width="30%">
+    <img src="/assets/supportdecuve.png" alt="Image 3" width="40%">
     <img src="/assets/poignet.png" alt="Image 4" width="30%">
     <img src="/assets/supportcuve.png" alt="Image 3" width="30%">
 </div>
-En tenant compte des différentes contraintes de chaque capteur et du principe de mesure, j'ai con. 
-Pour les capteurs de température et d'humidité, j'ai créé un espace ventilé avec des grilles en nid d'abeilles de part et d'autre, et un intérieur noir pour éviter qu'une trop forte luminosité ne fausse la valeur de la température et pour l'anémomètre et la girouette, un espace a été laissé au sommet de la station pour assurer une parfaite circulation de l'air. 
+
 Le tout est imprimé en acide polylactique (PLA) mais nous pourrions l'améliorer en l'imprimant en ABS, qui est plus résistant. 
 
 ##### Métrologie
@@ -63,6 +70,7 @@ Nous allons réaliser différentes tests pour attester de la fiabilité et de la
     <img src="/assets/Metropage.jpg" alt="Image 4" width="80%">
 </div>
 Ce projet et ses résultats de mesure sont illustré sur une page Web codé en HTML, CSS, PYTHON divisé en 5 fenêtres rempliçant un rôle d'information définie, "Accueil" "Méthode" "Résultats" "Performances Métrologiques" "Mode Opératoire".
+
 Pour la réalisation de mon site, je l'ai structuré en 3 blocs: "STATIC" avec mes illustrations CSS et Javascript; "TOOLS" pour permettre de convertir les informations de l'Arduino dans ma base de données et de les afficher; et enfin "TEMPLATES" avec tout le squelette du site. Pour finir, les 20 données de chaque concentrations étalons sont moyonné en un points et représenté sur un graphique (matpotlib) pour observer son caractère linéaire. Puis, avec des propriété de matpotlib, je calcule l'équation de la droite selon un modèle de regression linéaire.Afin, avec elle je peut calculer d'après la loi de Beer-lambert la concentration de la solutions inconnu à partir de son absorbance.
 
 #### Produit fini
