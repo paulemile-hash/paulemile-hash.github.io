@@ -35,7 +35,6 @@ Ayant été témoin de l'augmentation des incendies, j'ai profité d'un week-end
 <div style="display:flex; align-items:center;">
     <img src="/assets/dataserveur.png" alt="Illustration Exemple plan station" width="50%" style="margin-right:10px;">
     <p style="margin-left:10px;"> Création d'une schéma de serveur afin d'assurer le flux de donnée et leur sécuritée avec un serveur Firewall.
-    
     </p>
 </div>
 
