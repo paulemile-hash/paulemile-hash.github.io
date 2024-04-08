@@ -24,7 +24,11 @@ Ce projet de création personnel a pour iobjectif de créer une boxe domotique a
 
 <div style="display:flex; align-items:center;">
     <img src="/assets/configuration.png"  width="60%" style="margin-right:10px;">
-    <p style="margin-left:10px;"> </p>
+    <p style="margin-left:10px;"> Installation du plugins Home Assistant sur la carte SD sur le site de Raspberry.</p>
+</div>
+<div style="display:flex; align-items:center;">
+    <img src="/assets/homeassi.png"  width="60%" style="margin-right:10px;">
+    <p style="margin-left:10px;"> Configuration de son espace Home Assistant pour le relier à ses appareils WiFi. </p>
 </div>
 
 #### Conception mécanique
@@ -32,3 +36,4 @@ Ce projet de création personnel a pour iobjectif de créer une boxe domotique a
     <img src="/assets/boite1dom.png" alt="Image 1" width="50%">
     <img src="/assets/boite2dom.png" alt="Image 2" width="50%">
 </div>
+Conception 3D d'un box pour fixer les composants et les espaces d'alimentations.
