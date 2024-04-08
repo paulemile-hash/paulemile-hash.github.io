@@ -13,7 +13,7 @@ tags:
   - Principes chimiques
 ---
 <div style="display:flex; justify-content:center;">
-    <img src="/assets/Chaine-spectro.png" alt="Image 4" width="120%">
+    <img src="/assets/Chaine-spectro.png" alt="Image 4" width="150%">
 </div>
 
 #### Objectif
@@ -90,7 +90,7 @@ Nous allons réaliser différentes tests pour attester de la fiabilité et de la
 </div>
 
 <div style="display:flex; align-items:center;">
-    <img src="/assets/cahierdeschargesvf.png"  width="50%" style="margin-right:10px;">
+    <img src="/assets/cahierdeschargesvf.png"  width="60%" style="margin-right:10px;">
     <p style="margin-left:10px;">Ainsi, nous avons pû rédiger un tableau comparatif complets entre notre cahier des charges et nos résultats à la fin de notre projet.</p>
 </div>
 
