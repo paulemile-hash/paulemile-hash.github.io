@@ -30,12 +30,6 @@ Ce projet, avait pour but de concevoir entièrement un spectromètre afin de dos
     <p style="margin-left:10px;">Puis, pour le récepteur, nous avons prit une photodiode compte-tenue de sa meilleur sensibilitée (cette conclusion est le résultats d'un test de performance entre une photorésistance, une photodiode et un phototransistor.)</p>
 </div>
 
-### Conceptio circuit éléctroniques
-
-<div style="display:flex; align-items:center;">
-    <img src="/assets/Circuitimprimé.png"  width="30%" style="margin-right:10px;">
-    <p style="margin-left:10px;"> - Un AO différentiel (Ajouter du gain) - Pont diviseur de tension - filtre RC pass-bas d'ordre 1 - entrées de corants - pins bananes pour l'alimentation extêrne  </p>
-</div>
 
 #### Conception mécanique
 
@@ -48,7 +42,7 @@ En tenant compte des différentes contraintes de chaque capteur et du principe d
 
 <div style="display:flex; align-items:center;">
     <img src="/assets/decoupe_laser.png"  width="40%" style="margin-right:10px;">
-    <p style="margin-left:10px;">Réalisation du fichier .svg de découpe par CNC concentratrice de CO2 (Commande Numérique par Calculateur) sur des plaques de bois de 5mm. Pour profiter de ses caractères de Solidité, précision et fiabilitée.  </p>
+    <p style="margin-left:10px;">Réalisation du fichier .svg de découpe par CNC concentratrice de CO2 (Commande Numérique par Calculateur) sur des plaques de bois de 5 mm. Pour profiter de ses caractères de Solidité, précision et fiabilité. Ce dernier est composé d'une multitude de créneaux pour imbriquer les différentes pièces et de former la boite, elle est séparée en deux par une plaque également en bois pour maintenir les bords et éviter que le bois ce gondole et laisse passer de la lumière. De plus, cela permet de créer 2 espaces un pour la partie optique qui sera peinte en noir et une pour les branchements optiques.  </p>
 </div>
 
  Puis, j'ai imprimé avec mon imprimante FDM (Fused Deposition Modeling) un support de cuve pour éviter des potentiels renversement lors des manipulations, une poignet afin de faciliter l'ouverture du spectromètre et le support de sample et des capteurs. Ce dernier a été modélisé de façon à optimiser la précision de nos mesures que ce soit par la distance entre les capteurs, les espaces de liberté des éléments ou sa hauteur pour laisser l'espace du circuit imprimé en dessous.
@@ -59,6 +53,17 @@ Le tout est imprimé en acide polylactique (PLA) mais nous pourrions l'améliore
     <img src="/assets/supportcuve.png" alt="Image 3" width="30%">
 </div>
 
+### Conceptio circuit éléctroniques
+
+<div style="display:flex; align-items:center;">
+    <img src="/assets/Circuitimprimé.png"  width="30%" style="margin-right:10px;">
+    <p style="margin-left:10px;"> - Un AO différentiel (Ajouter du gain) - Pont diviseur de tension - filtre RC pass-bas d'ordre 1 - entrées de corants - pins bananes pour l'alimentation extêrne  </p>
+</div>
+
+<div style="display:flex; align-items:center;">
+    <img src="/assets/spectrovuH2.png"  width="30%" style="margin-right:10px;">
+    <p style="margin-left:10px;"> Branchement de l'arduino, du boton et de l'écran dans le compartiments éléctronique.  </p>
+</div>
 
 ##### Métrologie
 
@@ -90,14 +95,6 @@ Nous allons réaliser différentes tests pour attester de la fiabilité et de la
 Ce projet et ses résultats de mesure sont illustré sur une page Web codé en HTML, CSS, PYTHON divisé en 5 fenêtres rempliçant un rôle d'information définie, "Accueil" "Méthode" "Résultats" "Performances Métrologiques" "Mode Opératoire".
 
 Pour la réalisation de mon site, je l'ai structuré en 3 blocs: "STATIC" avec mes illustrations CSS et Javascript; "TOOLS" pour permettre de convertir les informations de l'Arduino dans ma base de données et de les afficher; et enfin "TEMPLATES" avec tout le squelette du site. Pour finir, les 20 données de chaque concentrations étalons sont moyonné en un points et représenté sur un graphique (matpotlib) pour observer son caractère linéaire. Puis, avec des propriété de matpotlib, je calcule l'équation de la droite selon un modèle de regression linéaire.Afin, avec elle je peut calculer d'après la loi de Beer-lambert la concentration de la solutions inconnu à partir de son absorbance.
-
-#### Produit fini
-
-<div style="display:flex; justify-content:center;">
-    <img src="/assets/photoGspectro.png" alt="Image 1" width="30%">
-    <img src="/assets/spectrovuH2.png" alt="Image 2" width="30%">
-</div>
-
 
 #### Rédaction guide d'utilisation
 
