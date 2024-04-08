@@ -94,6 +94,7 @@ Nous avons 2 types de profils en fonction de si l'utilisateur est un professionn
     <img src="/assets/Graphique2.png" alt="Illustration Exemple plan station" width="50%">
     <img src="/assets/Graphique3.png" alt="Illustration Exemple plan station" width="50%">
     <img src="/assets/Graphique4.png" alt="Illustration Exemple plan station" width="50%">
+  Dans l'objectif d'identité de marque, nous avons développé une charte graphique au tour de Fotià. Cela permet de donner une identité globale à la marque et de la différentier, ainsi que la rentre plus attrayante même pour des personnes non sensibilisé à notre domaine d'activité.
 </div>
 
 #### Suite avec Université 
