@@ -19,6 +19,18 @@ tags:
 #### Objectif
 Ce projet, avait pour but de concevoir entièrement un spectromètre afin de doser les Nitirites présent dans l'eau de la Loire.Ainsi, qu'une étude métrologie pour confirmer la fiabilité de notre instument. Le tout relatée sur une page Web.
 
+### Choix des composants éléctroniques
+
+<div style="display:flex; align-items:center;">
+    <img src="/assets/Diode laser.jpg"  width="30%" style="margin-right:10px;">
+    <p style="margin-left:10px;">Nous avons decider de prends comme émetteur une diode laser de 530 nm afin de nous rapprocher le plus du pics d'absorbance des nitrites qui est de 540 nm, de plus, la couleur de notre photodiode est verte qui est la opposé du rose (couleur de notre réactif chique en résence de Nitrite).</p>
+</div>
+<div style="display:flex; align-items:center;">
+    <img src="/assets/Photodiode.jpg"  width="30%" style="margin-right:10px;">
+    <p style="margin-left:10px;">Puis, pour le récepteur, nous avons prit une photodiode compte-tenue de sa meilleur sensibilitée (cette conclusion est le résultats d'un test de performance entre une photorésistance, une photodiode et un phototransistor.)</p>
+</div>
+
+### Conceptio circuit éléctroniques
 
 #### Conception mécanique
 
@@ -80,7 +92,6 @@ Pour la réalisation de mon site, je l'ai structuré en 3 blocs: "STATIC" avec m
     <img src="/assets/photoGspectro.png" alt="Image 1" width="50%">
 </div>
 <div style="display:flex; justify-content:center;">
-    <img src="/assets/photosupportcuve.png" alt="Image 2" width="50%">
     <img src="/assets/spectrovuH2.png" alt="Image 2" width="50%">
 </div>
 
