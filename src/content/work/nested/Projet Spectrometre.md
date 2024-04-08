@@ -89,6 +89,11 @@ Nous allons réaliser différentes tests pour attester de la fiabilité et de la
     <p style="margin-left:10px;">On effectue 5 mesures et nous comparons leur équation de régression linéaire pour déterminer si nous conservons bien le comportement linéaire de notre mesure, ici, nous pouvons constater que c'est bien le cas d'un point de vue graphique et sur les valeurs de coefficients de l'équation de droite.</p>
 </div>
 
+<div style="display:flex; align-items:center;">
+    <img src="/assets/cahierdeschargesvf.png"  width="50%" style="margin-right:10px;">
+    <p style="margin-left:10px;">Ainsi, nous avons pû rédiger un tableau comparatif complets entre notre cahier des charges et nos résultats à la fin de notre projet.</p>
+</div>
+
 #### Page web
 
 <div style="display:flex; justify-content:center;">
