@@ -32,6 +32,14 @@ Ayant été témoin de l'augmentation des incendies, j'ai profité d'un week-end
     </p>
 </div>
 
+#### Niveaux de risques
+<div style="display:flex; align-items:center;">
+    <img src="/assets/seuilsderisques.png" alt="Illustration Exemple plan station" width="50%" style="margin-right:10px;">
+    <p style="margin-left:10px;">
+    Mise en place de niveaux de risques en fonction d'une sommes de paramètres météo calculé avec un modèle mathématique et du machine learning 
+    </p>
+</div>
+
 ###  Création Application
 <div style="display:flex; justify-content:center;">
     <img src="/assets/Widget.jpg" alt="Illustration Widget" width="40%">
