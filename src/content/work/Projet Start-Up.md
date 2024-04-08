@@ -55,11 +55,16 @@ Ayant été témoin de l'augmentation des incendies, j'ai profité d'un week-end
 L’application a pour but d’être extrêmement synthétique afin de comprendre au premier coup d’œil s'il y a un risque ou non. Les différents facteurs de risques sont visibles sur la première page et il est également possible d’observer sur ces facteurs de quelles stations provient les données ce qui permet de savoir vers quelle station se produit le risque.
 L’application permet, également, de faire de la maintenance sur les possibles dérèglements puisque nous pourrons être en mesure de constater les fluctuations de chaque station individuellement et donc de signaler les évolutions anormales. Elle est pour le moment en voie de développement à l’aide du framework flutter de Google et codé avec du « ya », « dart », « yaml », « HTML », « python », et du « C ».
 
-###  Création Application
+###  Création Page Web
 
 <div style="display:flex; align-items:center;">
     <img src="/assets/HomesiteF.png" alt="Illustration maquette 3D" width="65%" style="margin-right:10px;">
     <p style="margin-left:10px;">La page d'acceuil permet d'informer sur les grandes principes du projet.</p>
+</div>
+
+<div style="display:flex; align-items:center;">
+    <img src="/assets/Mapsite.png" alt="Illustration maquette 3D" width="65%" style="margin-right:10px;">
+    <p style="margin-left:10px;">Fenêtre qui utilise l'API (Application Programming Interface) de google Maps pour localiser les stations, renseigner leurs paramètres et mesures.</p>
 </div>
 
 <div style="display:flex; justify-content:center;">
