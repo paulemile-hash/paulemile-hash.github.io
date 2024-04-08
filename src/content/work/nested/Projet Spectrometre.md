@@ -34,13 +34,14 @@ En tenant compte des différentes contraintes de chaque capteur et du principe d
     <p style="margin-left:10px;">Réalisation du fichier .svg de découpe par CNC concentratrice de CO2 (Commande Numérique par Calculateur) sur des plaques de bois de 5mm. Pour profiter de ses caractères de Solidité, précision et fiabilitée.  </p>
 </div>
 
+ Puis, j'ai imprimé avec mon imprimante FDM (Fused Deposition Modeling) un support de cuve pour éviter des potentiels renversement lors des manipulations, une poignet afin de faciliter l'ouverture du spectromètre et le support de sample et des capteurs. Ce dernier a été modélisé de façon à optimiser la précision de nos mesures que ce soit par la distance entre les capteurs, les espaces de liberté des éléments ou sa hauteur pour laisser l'espace du circuit imprimé en dessous.
+Le tout est imprimé en acide polylactique (PLA) mais nous pourrions l'améliorer en l'imprimant en ABS, qui est plus résistant. 
 <div style="display:flex; justify-content:center;">
     <img src="/assets/supportdecuve.png" alt="Image 3" width="40%">
     <img src="/assets/poignet.png" alt="Image 4" width="30%">
     <img src="/assets/supportcuve.png" alt="Image 3" width="30%">
 </div>
 
-Le tout est imprimé en acide polylactique (PLA) mais nous pourrions l'améliorer en l'imprimant en ABS, qui est plus résistant. 
 
 ##### Métrologie
 
