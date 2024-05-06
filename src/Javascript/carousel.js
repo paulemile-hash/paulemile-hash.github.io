@@ -1,3 +1,4 @@
+// Class Carousel
 class Carousel {
     constructor() {
         this.img = [];
@@ -11,7 +12,17 @@ class Carousel {
         this.animForward = ['mv0to5', 'mv1to0', 'mv2to1', 'mv3to2', 'mv4to3', 'mv5to4'];
         this.animBackward = ['mv0to1', 'mv1to2', 'mv2to3', 'mv3to4', 'mv4to5', 'mv5to0'];
 
-        this.reset();
+        this.currentImage = 2;
+
+        // Sélectionnez les images du carousel
+        this.carouselImages = document.querySelectorAll('.carousel-image');
+
+        // Ajoutez des écouteurs d'événements pour les clics sur les images
+        this.carouselImages.forEach((image, index) => {
+            image.addEventListener('click', () => {
+                this.gotoImage(index);
+            });
+        });
     }
 
     reset() {
@@ -53,20 +64,21 @@ class Carousel {
     showImage(pos) {
         this.img[(pos + this.currentImage + 4) % 6].style.visibility = 'visible';
     }
+
+    // Fonction pour aller à une image spécifique
+    gotoImage(index) {
+        const diff = index - this.currentImage;
+        if (diff > 0) {
+            for (let i = 0; i < diff; i++) {
+                this.next();
+            }
+        } else if (diff < 0) {
+            for (let i = 0; i < -diff; i++) {
+                this.previous();
+            }
+        }
+    }
 }
 
-// Create an instance of the Carousel class
+// Créez une instance de la classe Carousel
 const carousel = new Carousel();
-
-// Select navigation buttons
-const prevButton = document.querySelector('.prev-btn');
-const nextButton = document.querySelector('.next-btn');
-
-// Add event listeners for clicks on navigation buttons
-prevButton.addEventListener('click', () => {
-    carousel.previous();
-});
-
-nextButton.addEventListener('click', () => {
-    carousel.next();
-});
