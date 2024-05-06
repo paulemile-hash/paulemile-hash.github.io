@@ -261,7 +261,7 @@ h5 {
     height: 15vh; /* Réduire la hauteur du carrousel */
     overflow: hidden;
     margin-top: 20px;
-    margin-bottom: 500px; /* Ajouter une marge en bas pour éloigner le carrousel de l'élément en dessous */
+    margin-bottom: 300px; /* Ajouter une marge en bas pour éloigner le carrousel de l'élément en dessous */
     position: static; /* Définir le positionnement relatif */
 }
 

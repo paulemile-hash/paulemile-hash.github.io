@@ -8,7 +8,7 @@ class Carousel {
         this.img[4] = document.getElementById("carousel-image-4");
         this.img[5] = document.getElementById("carousel-image-5");
 
-        this.animForward  = ['mv0to5', 'mv1to0', 'mv2to1', 'mv3to2', 'mv4to3', 'mv5to4'];
+        this.animForward = ['mv0to5', 'mv1to0', 'mv2to1', 'mv3to2', 'mv4to3', 'mv5to4'];
         this.animBackward = ['mv0to1', 'mv1to2', 'mv2to3', 'mv3to4', 'mv4to5', 'mv5to0'];
 
         this.reset();
@@ -17,19 +17,19 @@ class Carousel {
     reset() {
         this.img.forEach((image) => {
             this.animForward.forEach((animation) => {
-                image.classList.remove(animation);            
+                image.classList.remove(animation);
             });
             this.animBackward.forEach((animation) => {
-                image.classList.remove(animation);            
+                image.classList.remove(animation);
             });
         });
         this.currentImage = 2;
     }
 
     next(nextImage) {
-        if (nextImage !== undefined) this.setImage(5 , nextImage);
+        if (nextImage !== undefined) this.setImage(5, nextImage);
 
-        this.img.forEach((image, i) => {    
+        this.img.forEach((image, i) => {
             this.animForward.forEach((animation) => { image.classList.remove(animation); });
             this.animBackward.forEach((animation) => { image.classList.remove(animation); });
             image.classList.add(this.animForward[(-this.currentImage + i + 8) % 6]);
@@ -39,7 +39,7 @@ class Carousel {
     }
 
     previous(previousImage) {
-        // Ajoutez le code pour l'animation précédente ici
+        // Add code for previous animation here
     }
 
     setImage(pos, src) {
@@ -55,14 +55,14 @@ class Carousel {
     }
 }
 
-// Créez une instance de la classe Carousel
+// Create an instance of the Carousel class
 const carousel = new Carousel();
 
-// Sélectionnez les boutons de navigation
+// Select navigation buttons
 const prevButton = document.querySelector('.prev-btn');
 const nextButton = document.querySelector('.next-btn');
 
-// Ajoutez des écouteurs d'événements pour les clics sur les boutons de navigation
+// Add event listeners for clicks on navigation buttons
 prevButton.addEventListener('click', () => {
     carousel.previous();
 });
