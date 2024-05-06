@@ -17,7 +17,7 @@ class Carousel {
             });
         });
 
-        this.rotateCarousel(this.currentImage);
+        this.updateCarousel();
     }
 
     rotateCarousel(indexClicked) {
@@ -42,6 +42,9 @@ class Carousel {
         this.img.forEach((image, index) => {
             image.style.order = index;
         });
+
+        const redLine = document.querySelector('.red-line');
+        redLine.style.left = (this.currentImage * 20) + '%'; // Adjusting left position based on current image
     }
 }
 
