@@ -258,11 +258,10 @@ h5 {
     width: 100%;
     max-width: 100vw;
     height: 21vh;
-    position: absolute;
-    top: 50%;
-    transform: translateY(-50%);
     overflow: hidden;
+    margin-top: 20px;
 }
+
 
 .carousel-image {
     height: 20vh;
@@ -332,4 +331,4 @@ h5 {
     animation-fill-mode: forwards;
 }
 
-/* Ajoutez les autres classes d'animation ici */
+
