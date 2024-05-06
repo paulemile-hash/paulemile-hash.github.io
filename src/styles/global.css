@@ -254,15 +254,81 @@ h5 {
 	}
 }
 
-.carousel {
+
+#carousel {
     width: 100%;
+    max-width: 100vw;
+    height: 15vh; /* Réduire la hauteur du carrousel */
     overflow: hidden;
+    margin-top: 20px;
 }
 
-.carousel-inner {
-    display: flex;
+.carousel-image {
+    height: 54vh; /* Réduire la hauteur des images */
+    max-height: 540px; /* Réduire la hauteur maximale des images */
+    position: absolute;
+    left: 50%;
+    border-radius: 3%;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
 }
 
-.carousel-item {
-    flex: 0 0 100%; /* Chaque élément occupe toute la largeur */
+#carousel-image-0 {
+    transform: translateX(-50%) translateX(-120%) scale(0.6);
+    filter: brightness(40%);
+    z-index: 1;
 }
+
+#carousel-image-1 {
+    transform: translateX(-50%) translateX(-80%) scale(0.8);
+    filter: brightness(65%);
+    opacity: 1;
+    z-index: 2;
+}
+
+#carousel-image-2 {
+    transform: translateX(-50%) scale(1);
+    filter: brightness(100%);
+    opacity: 1;
+    z-index: 3;
+}
+
+#carousel-image-3 {
+    transform: translateX(-50%) translateX(80%) scale(0.8);
+    filter: brightness(65%);
+    opacity: 1;
+    z-index: 2;
+}
+
+#carousel-image-4 {
+    transform: translateX(-50%) translateX(120%) scale(0.6);
+    filter: brightness(40%);
+    opacity: 1;
+    z-index: 1;
+}
+
+#carousel-image-5 {
+    transform: translateX(-50%) scale(1.5);
+    filter: brightness(40%);
+    opacity: 0;
+    z-index: 1;
+}
+
+@keyframes mv0to5 {
+    0% { transform: translateX(-50%) translateX(-120%) scale(0.6); filter: brightness(40%); opacity: 1; z-index: 2}
+    20% { opacity: 0; }
+    100% { transform: translateX(-50%) scale(0.6);  filter: brightness(40%); opacity: 0; z-index:1}
+}
+
+@keyframes mv5to0 {
+    0% { transform: translateX(-50%) scale(0.6);  filter: brightness(40%); opacity: 0; z-index:1}    
+    80% {opacity:0;}
+    100% { transform: translateX(-50%) translateX(-120%) scale(0.6);  filter: brightness(40%); opacity: 1; z-index:2}    
+}
+
+.mv0to5 {
+    animation: 0.3s ease-out mv0to5;
+    animation-iteration-count: 1;
+    animation-fill-mode: forwards;
+}
+
+
