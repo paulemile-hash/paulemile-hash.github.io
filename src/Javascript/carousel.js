@@ -1,5 +1,4 @@
 class Carousel {
-
     constructor() {
         this.img = [];
         this.img[0] = document.getElementById("carousel-image-0");
@@ -18,25 +17,25 @@ class Carousel {
     reset() {
         this.img.forEach((image) => {
             this.animForward.forEach((animation) => {
-                image.classList.remove( animation );            
+                image.classList.remove(animation);            
             });
             this.animBackward.forEach((animation) => {
-                image.classList.remove( animation );            
+                image.classList.remove(animation);            
             });
         });
-        this.currentImage=2;
+        this.currentImage = 2;
     }
 
     next(nextImage) {
-        if (nextImage !== undefined) this.setImage( 5 , nextImage );
+        if (nextImage !== undefined) this.setImage(5 , nextImage);
 
         this.img.forEach((image, i) => {    
-            this.animForward.forEach((animation) => { image.classList.remove( animation ); });
-            this.animBackward.forEach((animation) => { image.classList.remove( animation ); });
-            image.classList.add( this.animForward[(-this.currentImage+i+8)%6] );
+            this.animForward.forEach((animation) => { image.classList.remove(animation); });
+            this.animBackward.forEach((animation) => { image.classList.remove(animation); });
+            image.classList.add(this.animForward[(-this.currentImage + i + 8) % 6]);
         });
 
-        this.currentImage = (this.currentImage+1)%6;
+        this.currentImage = (this.currentImage + 1) % 6;
     }
 
     previous(previousImage) {
@@ -44,18 +43,30 @@ class Carousel {
     }
 
     setImage(pos, src) {
-        this.img[(pos+this.currentImage+4)%6].src = src;
+        this.img[(pos + this.currentImage + 4) % 6].src = src;
     }
 
     hideImage(pos) {
-        this.img[(pos+this.currentImage+4)%6].style.visibility = 'hidden';
+        this.img[(pos + this.currentImage + 4) % 6].style.visibility = 'hidden';
     }
 
     showImage(pos) {
-        this.img[(pos+this.currentImage+4)%6].style.visibility = 'visible';
+        this.img[(pos + this.currentImage + 4) % 6].style.visibility = 'visible';
     }
 }
 
+// Créez une instance de la classe Carousel
 const carousel = new Carousel();
 
+// Sélectionnez les boutons de navigation
+const prevButton = document.querySelector('.prev-btn');
+const nextButton = document.querySelector('.next-btn');
 
+// Ajoutez des écouteurs d'événements pour les clics sur les boutons de navigation
+prevButton.addEventListener('click', () => {
+    carousel.previous();
+});
+
+nextButton.addEventListener('click', () => {
+    carousel.next();
+});
