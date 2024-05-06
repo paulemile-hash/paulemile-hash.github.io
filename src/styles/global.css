@@ -265,6 +265,11 @@ h5 {
     position: static; /* Définir le positionnement relatif */
 }
 
+.carousel-image.active {
+    border: 2px solid red; /* Par exemple, changez la bordure de l'image active */
+}
+
+
 .carousel-image {
     height: 34vh; /* Réduire la hauteur des images */
     max-height: 340px; /* Réduire la hauteur maximale des images */
