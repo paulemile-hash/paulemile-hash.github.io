@@ -14,6 +14,7 @@ class Carousel {
         this.img.forEach((image, index) => {
             image.addEventListener('click', () => {
                 this.setCurrentImage(index);
+                this.rotateCarousel();
             });
         });
 
@@ -28,6 +29,12 @@ class Carousel {
                 image.classList.remove('active');
             }
         });
+    }
+
+    rotateCarousel() {
+        const nextIndex = (this.currentImage + 1) % this.img.length;
+        this.currentImage = nextIndex;
+        this.setCurrentImage(nextIndex);
     }
 }
 
