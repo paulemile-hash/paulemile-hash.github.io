@@ -13,28 +13,35 @@ class Carousel {
 
         this.img.forEach((image, index) => {
             image.addEventListener('click', () => {
-                this.setCurrentImage(index);
-                this.rotateCarousel();
+                this.rotateCarousel(index);
             });
         });
 
-        this.setCurrentImage(this.currentImage);
+        this.rotateCarousel(this.currentImage);
     }
 
-    setCurrentImage(index) {
-        this.img.forEach((image, i) => {
-            if (i === index) {
-                image.classList.add('active');
-            } else {
-                image.classList.remove('active');
+    rotateCarousel(indexClicked) {
+        const temp = this.img[indexClicked];
+        if (indexClicked < this.currentImage) {
+            for (let i = indexClicked; i < this.currentImage; i++) {
+                this.img[i] = this.img[i + 1];
             }
-        });
+        } else if (indexClicked > this.currentImage) {
+            for (let i = indexClicked; i > this.currentImage; i--) {
+                this.img[i] = this.img[i - 1];
+            }
+        }
+        this.img[this.currentImage] = temp;
+
+        this.currentImage = indexClicked;
+
+        this.updateCarousel();
     }
 
-    rotateCarousel() {
-        const nextIndex = (this.currentImage + 1) % this.img.length;
-        this.currentImage = nextIndex;
-        this.setCurrentImage(nextIndex);
+    updateCarousel() {
+        this.img.forEach((image, index) => {
+            image.style.order = index;
+        });
     }
 }
 
