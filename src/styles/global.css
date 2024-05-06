@@ -257,15 +257,14 @@ h5 {
 #carousel {
     width: 100%;
     max-width: 100vw;
-    height: 21vh;
+    height: 15vh; /* Réduire la hauteur du carrousel */
     overflow: hidden;
     margin-top: 20px;
 }
 
-
 .carousel-image {
-    height: 20vh;
-    max-height: 200px;
+    height: 14vh; /* Réduire la hauteur des images */
+    max-height: 140px; /* Réduire la hauteur maximale des images */
     position: absolute;
     left: 50%;
     border-radius: 7%;
