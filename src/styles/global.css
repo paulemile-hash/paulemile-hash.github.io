@@ -256,14 +256,14 @@ h5 {
 
 
 #carousel {
-	width: 100%;
-	max-width: 100vw;
-	height: 15vh; /* Réduire la hauteur du carrousel */
-	overflow: hidden;
-	margin-top: 20px;
-	margin-bottom: 50px; /* Add margin-bottom to move the carousel away from the contact area */
-  }
-  
+    width: 100%;
+    max-width: 100vw;
+    height: 15vh; /* Réduire la hauteur du carrousel */
+    overflow: hidden;
+    margin-top: 20px;
+    margin-bottom: 50px; /* Ajouter une marge en bas pour éloigner le carrousel de l'élément en dessous */
+    position: relative; /* Définir le positionnement relatif */
+}
 
 .carousel-image {
     height: 54vh; /* Réduire la hauteur des images */
@@ -272,6 +272,7 @@ h5 {
     left: 50%;
     border-radius: 3%;
     box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    z-index: 1; /* Assurer que les images du carousel restent au-dessus du contenu */
 }
 
 #carousel-image-0 {
