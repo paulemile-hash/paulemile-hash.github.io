@@ -263,8 +263,8 @@ h5 {
 }
 
 .carousel-image {
-    height: 24vh; /* Réduire la hauteur des images */
-    max-height: 240px; /* Réduire la hauteur maximale des images */
+    height: 44vh; /* Réduire la hauteur des images */
+    max-height: 440px; /* Réduire la hauteur maximale des images */
     position: absolute;
     left: 50%;
     border-radius: 7%;
