@@ -261,6 +261,7 @@ h5 {
     height: 15vh; /* Réduire la hauteur du carrousel */
     overflow: hidden;
     margin-top: 20px;
+    margin-bottom: 500px; /* Ajouter une marge en bas pour éloigner le carrousel de l'élément en dessous */
     position: relative; /* Définir le positionnement relatif */
 }
 
@@ -273,12 +274,6 @@ h5 {
     box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
     z-index: 1; /* Assurer que les images du carousel restent au-dessus du contenu */
 }
-
-/* Ajouter une marge supérieure à l'élément situé en dessous */
-.content {
-    margin-top: 100px; /* Ajustez la valeur selon vos besoins pour laisser de l'espace au carousel */
-}
-
 
 #carousel-image-0 {
     transform: translateX(-50%) translateX(-120%) scale(0.6);
