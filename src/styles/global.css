@@ -263,11 +263,11 @@ h5 {
 }
 
 .carousel-image {
-    height: 44vh; /* Réduire la hauteur des images */
-    max-height: 440px; /* Réduire la hauteur maximale des images */
-    position: absolute;
+    height: 54vh; /* Réduire la hauteur des images */
+    max-height: 540px; /* Réduire la hauteur maximale des images */
+    position: relative;
     left: 50%;
-    border-radius: 7%;
+    border-radius: 3%;
     box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
 }
 
