@@ -262,7 +262,7 @@ h5 {
     overflow: hidden;
     margin-top: 20px;
     margin-bottom: 500px; /* Ajouter une marge en bas pour éloigner le carrousel de l'élément en dessous */
-    position: relative; /* Définir le positionnement relatif */
+    position: static; /* Définir le positionnement relatif */
 }
 
 .carousel-image {
