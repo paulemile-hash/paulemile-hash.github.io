@@ -71,3 +71,13 @@ prevButton.addEventListener('click', () => {
 nextButton.addEventListener('click', () => {
     carousel.next();
 });
+
+next() 
+{
+    const nextImage = this.currentImage === 5 ? 0 : this.currentImage + 1;
+    const nextSrc = this.img[nextImage].src;
+    this.img.forEach((image, i) => {
+        image.src = this.img[(nextImage + i) % 6].src;
+    });
+    this.currentImage = nextImage;
+}
