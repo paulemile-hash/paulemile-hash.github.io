@@ -302,7 +302,7 @@ html, body {
   
   .slide-img {
 	width: 100%; /* Ensures images fill the container width */
-	height: 300px; /* Adjust as needed for image height */
+	/* Remove the fixed height property */
 	position: absolute;
 	top: 0;
 	left: 100%; /* Initial position off-screen */
