@@ -54,24 +54,35 @@ import type { Code } from 'astro:components';
 					<p>Curieux, Créatif, Autonome, Organisé, Téméraire, Polyvalent, Eloquent</p>
 				</div>
 			</section>
-			<section>
-                <h2 class="section-title">Compétitions Universitaires</h2>
-                <div class="content">
-                    <p>Durant mes deux dernières années à l'Université de Tours, j'ai pu participer à de nombreuses compétitions sportives. Que ce soit les tournois inter-fac de Basket-Ball, Volley-Ball, Hand-Ball ou Ultimate, j'avais à cœur de représenter mon département et de faire valoir le sport Blésois à Tours.</p>
-            
-                    <div id="carousel"> 
-                        <img src="/assets/Championats_france2024.jpg" id="carousel-image-0" class="carousel-image">
-                        <img src="/assets/Inter-fac_volley2024.jpg" id="carousel-image-1" class="carousel-image">
-                        <img src="/assets/NuitVolley2024.jpg" id="carousel-image-2" class="carousel-image">
-                        <img src="/assets/Nuitbasket2023.jpg" id="carousel-image-3" class="carousel-image">
-						<img src="/assets/Inter-fac_ultimate.jpg" id="carousel-image-4" class="carousel-image">
-                        <img src="/assets/Inter-fac_basket_2023.jpg" id="carousel-image-5" class="carousel-image">
-                        
-                    </div>
-                </div>
-               
-            </section>
-			<script src="../Javascript/carousel.js"></script>			
+			
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Carousel de photos</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div id="carousel">
+    <ul class="carousel-inner">
+      <li class="carousel-item active">
+        <img src="/assets/Championats_france2024.jpg" alt="Image 1">
+      </li>
+      <li class="carousel-item">
+        <img src="/assets/Inter-fac_volley2024.jpg" alt="Image 2">
+      </li>
+      <li class="carousel-item">
+        <img src="/assets/NuitVolley2024.jpg"alt="Image 3">
+      </li>
+    </ul>
+    <button class="carousel-control-prev" onclick="prev()">Précédent</button>
+    <button class="carousel-control-next" onclick="next()">Suivant</button>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>		
 		</main>
 	
 		<ContactCTA />
