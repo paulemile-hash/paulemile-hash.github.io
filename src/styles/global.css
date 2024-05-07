@@ -254,11 +254,10 @@ h5 {
 	}
 }
 
-
 #carousel {
 	width: 100%;
-	max-width: 1800px;
-	height: 1300px;
+	max-width: 800px;
+	height: 300px;
 	position: relative;
 	overflow: hidden;
   }
@@ -276,7 +275,7 @@ h5 {
   
   .carousel-item img {
 	display: block;
-	width: 100%;
+	width: 90%; /* Augmenter la taille des images */
 	height: auto;
   }
   
@@ -301,4 +300,7 @@ h5 {
 	right: 0;
   }
   
-
+  .carousel-item.active {
+	z-index: 2; /* Mettre en avant l'image active */
+  }
+  
