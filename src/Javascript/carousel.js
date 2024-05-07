@@ -1,33 +1,26 @@
-let currentSlide = 0;
+var slideIndex = 1;
+showSlides(slideIndex);
 
-function prev() {
-  if (currentSlide > 0) {
-    currentSlide--;
-    updateCarousel();
-  }
+function plusSlides(n) {
+    showSlides(slideIndex += n);
 }
 
-function next() {
-  if (currentSlide < document.querySelectorAll('.carousel-item').length - 1) {
-    currentSlide++;
-    updateCarousel();
-  }
+function currentSlide(n) {
+    showSlides(slideIndex = n);
 }
 
-function updateCarousel() {
-  const carouselInner = document.querySelector('.carousel-inner');
-  carouselInner.style.transform = `translateX(-${currentSlide * 100}%`;
-
-  // Activer et désactiver les boutons en fonction de la diapositive actuelle
-  const prevButton = document.querySelector('.carousel-control-prev');
-  const nextButton = document.querySelector('.carousel-control-next');
-  prevButton.disabled = currentSlide === 0;
-  nextButton.disabled = currentSlide === document.querySelectorAll('.carousel-item').length - 1;
-
-  // Mettre à jour la classe "active" pour l'indicateur de diapositive
-  const carouselItems = document.querySelectorAll('.carousel-item');
-  carouselItems.forEach(item => item.classList.remove('active'));
-  document.querySelector('.carousel-item:nth-child(' + (currentSlide + 1) + ')').classList.add('active');
+function showSlides(n) {
+    var i;
+    var slides = document.getElementsByClassName("custom-slider");
+    var dots = document.getElementsByClassName("dot");
+    if (n > slides.length) {slideIndex = 1}
+    if (n < 1) {slideIndex = slides.length}
+    for (i = 0; i < slides.length; i++) {
+        slides[i].style.display = "none";
+    }
+    for (i = 0; i < dots.length; i++) {
+        dots[i].className = dots[i].className.replace(" active", "");
+    }
+    slides[slideIndex-1].style.display = "block";
+    dots[slideIndex-1].className += " active";
 }
-
-updateCarousel();
