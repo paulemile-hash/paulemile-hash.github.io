@@ -253,54 +253,56 @@ h5 {
 		gap: 12rem;
 	}
 }
-
-#carousel {
-	width: 100%;
-	max-width: 800px;
-	height: 300px;
-	position: relative;
-	overflow: hidden;
-  }
-  
-  .carousel-inner {
-	display: flex;
-	transition: transform 0.5s ease-in-out;
-  }
-  
-  .carousel-item {
-	width: 100%;
-	height: 100%;
-	text-align: center;
-  }
-  
-  .carousel-item img {
-	display: block;
-	width: 90%; /* Augmenter la taille des images */
-	height: auto;
-  }
-  
-  .carousel-control-prev,
-  .carousel-control-next {
-	position: absolute;
-	top: 50%;
-	transform: translateY(-50%);
-	z-index: 10;
-	cursor: pointer;
-	padding: 10px 20px;
-	background-color: rgba(0, 0, 0, 0.5);
-	color: white;
-	border: none;
-  }
-  
-  .carousel-control-prev {
-	left: 0;
-  }
-  
-  .carousel-control-next {
-	right: 0;
-  }
-  
-  .carousel-item.active {
-	z-index: 2; /* Mettre en avant l'image active */
-  }
-  
+html, body {
+    width: 100%;
+    height: 100%;
+    margin: 0;
+    padding: 0;
+}
+img {
+    max-width: 100%;
+}
+.slider-container {
+    max-width: 800px;
+    position: relative;
+    margin: auto;
+    height: 350px;
+    overflow: hidden;
+}
+.menu {
+    position: absolute;
+    left: 0;
+    z-index: 11;
+    width: 100%;
+    bottom: 0;
+    text-align: center;
+}
+.menu label {
+    cursor: pointer;
+    display: inline-block;
+    width: 10px;
+    height: 10px;
+    background: #ccc;
+    border-radius: 50px;
+    margin: 0 0.2em 1em;
+}
+.menu label:hover,.menu label:focus {
+    background: #1c87c9;
+}
+.slide-input{
+    opacity: 0;
+}
+.slide-img {
+    width: 100%;
+    height: 300px;
+    position: absolute;
+    top: 0;
+    left: 100%;
+    z-index: 10;
+    transition: left 0s 0.75s;
+}
+[id^="slide"]:checked + .slide-img {
+    left: 0;
+    z-index: 100;
+    transition: left 0.65s ease-out;
+}

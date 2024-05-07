@@ -56,33 +56,30 @@ import type { Code } from 'astro:components';
 			</section>
 			
 			<!DOCTYPE html>
-			<html lang="fr">
-			<head>
-			  <meta charset="UTF-8">
-			  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-			  <title>Carousel de photos</title>
-			  <link rel="stylesheet" href="style.css">
-			</head>
-			<body>
-			  <div id="carousel">
-				<ul class="carousel-inner">
-				  <li class="carousel-item active">
-					<img src="image1.jpg" alt="Image 1">
-				  </li>
-				  <li class="carousel-item">
-					<img src="image2.jpg" alt="Image 2">
-				  </li>
-				  <li class="carousel-item">
-					<img src="image3.jpg" alt="Image 3">
-				  </li>
-				</ul>
-				<button class="carousel-control-prev" onclick="prev()">Précédent</button>
-				<button class="carousel-control-next" onclick="next()">Suivant</button>
-			  </div>
-			
-			  <script src="../Javascript/carousel.js"></script>
-			</body>
-			</html>
+<html>
+    <head>
+        <title>Custom Slider</title>
+    </head>
+    <body>
+        <div class="slider-container">
+            <div class="menu">
+                <label for="slide-dot-1"></label>
+                <label for="slide-dot-2"></label>
+                <label for="slide-dot-3"></label>
+            </div>
+
+            <input class="slide-input" id="slide-dot-1" type="radio" name="slides" checked>
+            <img class="slide-img" src="Nuitbasket2023.jpg">
+
+            <input class="slide-input" id="slide-dot-2" type="radio" name="slides">
+            <img class="slide-img" src="NuitVolley2023.jpg">
+
+            <input class="slide-input" id="slide-dot-3" type="radio" name="slides">
+            <img class="slide-img" src="NuitVolley2024.jpg">
+
+        </div>
+    </body>
+</html>
 			
 		</main>
 	
