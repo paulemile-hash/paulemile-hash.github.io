@@ -324,3 +324,21 @@ h5 {
     from {opacity: 0}
     to {opacity: 1}
 }
+
+.container {
+    display: flex;
+    justify-content: space-around; /* Espace entre les images */
+    align-items: center; /* Centrer verticalement si nécessaire */
+}
+
+.zoom img {
+    -webkit-transform: scale(1);
+    transform: scale(1);
+    -webkit-transition: .3s ease-in-out;
+    transition: .3s ease-in-out;
+}
+
+.zoom:hover img {
+    -webkit-transform: scale(1.3);
+    transform: scale(1.3);
+}

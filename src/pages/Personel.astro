@@ -57,11 +57,17 @@ import type { Code } from 'astro:components';
 
 			<section>
 				<h2 class="section-title">Compétition Universitaires</h2>
-				<div class="content">
-					<img src="/assets/Inter-fac_basket_2023.jpg" alt="Illustration chaine élément" width="60%">
-					<img src="/assets/Inter-fac_Hand.jpg" alt="Illustration chaine élément" width="60%">
-					<img src="/assets/Inter-fac_ultimate.jpg" alt="Illustration chaine élément" width="60%">
-					<p>§§§§§§§</p>
+					<div class="container">
+						<div class="zoom">
+							<img src="/assets/Inter-fac_basket_2023.jpg" alt="Image 1" width="300" height="200">
+						</div>
+						<div class="zoom">
+							<img src="/assets/Inter-fac_Hand.jpg" alt="Image 2" width="300" height="200">
+						</div>
+						<div class="zoom">
+							<img src="/assets/Inter-fac_ultimate.jpg" alt="Image 3" width="300" height="200">
+						</div>
+					</div>
 				</div>
 			</section>
 			
@@ -78,6 +84,22 @@ import type { Code } from 'astro:components';
 </BaseLayout>
 
 <style>
+
+	.container {
+            display: flex;
+            justify-content: space-around;
+            align-items: center;
+        }
+    .zoom img {
+            -webkit-transform: scale(1);
+            transform: scale(1);
+            -webkit-transition: .3s ease-in-out;
+            transition: .3s ease-in-out;
+        }
+    .zoom:hover img {
+            -webkit-transform: scale(1.3);
+            transform: scale(1.3);
+        }
 	.about {
 		display: flex;
 		flex-direction: column;
