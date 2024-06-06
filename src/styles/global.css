@@ -327,8 +327,12 @@ h5 {
 
 .container {
     display: flex;
+    flex-wrap: wrap; /* Permet de passer à la ligne suivante */
     justify-content: space-around; /* Espace entre les images */
-    align-items: center; /* Centrer verticalement si nécessaire */
+}
+
+.zoom {
+    margin: 10px; /* Optionnel : ajoute un peu d'espace autour de chaque image */
 }
 
 .zoom img {
