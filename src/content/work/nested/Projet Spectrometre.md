@@ -4,7 +4,7 @@ publishDate: 2020-03-04 00:00:00
 img: /assets/Projet spectrometre.png
 img_alt: Image couverture de projet
 description: |
-  Conception d'un sopectrometre
+  
 tags: 
   - Mener une campagne de mesures-n°1
   - Déployer la métrologie et la démarche qualité-n°2
