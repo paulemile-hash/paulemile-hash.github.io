@@ -9,8 +9,6 @@ tags:
   - Mener une campagne de mesures-n°1
   - Déployer la métrologie et la démarche qualité-n°2
   - Mettre en oeuvre une chaîne de mesure et d'instrument-n°2
-  - Développement web
-  - Conception mécanique
 ---
 <div style="display:flex; justify-content:center;">
     <img src="/assets/Chaine-spectro.png" alt="Image 4" width="150%">
