@@ -6,7 +6,7 @@ img_alt: Image couverture de projet
 description: |
   
 tags: 
-  - Mener une campagne de mesures-n°1
+  - Mener une campagne de mesures-n°2
   - Déployer la métrologie et la démarche qualité-n°2
   - Mettre en oeuvre une chaîne de mesure et d'instrument-n°2
 ---
