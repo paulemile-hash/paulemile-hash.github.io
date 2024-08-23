@@ -20,7 +20,7 @@ tags:
 ### Présentation du Laboratoire de Recherche
 
 <div style="display:flex; align-items:center;">
-    <img src="/assets/Présentation labo.png"  width="50%" style="margin-right:10px;">
+    <img src="/assets/Présentation labo.png"  width="60%" style="margin-right:10px;">
     <p style="margin-left:10px;">
     </p>
 </div>
@@ -28,7 +28,7 @@ tags:
 ### Le cadre du projet
 
 <div style="display:flex; align-items:center;">
-    <img src="/assets/Présentation projet.png"  width="60%" style="margin-right:10px;">
+    <img src="/assets/Présentation projet.png"  width="80%" style="margin-right:10px;">
     <p style="margin-left:10px;">
     </p>
 </div>
@@ -49,36 +49,28 @@ tags:
 ### Principe de deposition de film
 
 <div style="display:flex; align-items:center;">
-    <img src="/assets/RR.png"  width="30%" style="margin-right:10px;">
+    <img src="/assets/RR.png"  width="80%" style="margin-right:10px;">
     <p style="margin-left:10px;">
     </p>
 </div>
-<div style="display:flex; align-items:center;">
-    <img src="/assets/Fonctionnement RR.png"  width="30%" style="margin-right:10px;">
-    <p style="margin-left:10px;">
-    </p>
+
+<div style="display:flex; justify-content:center;">
+    <img src="/assets/Fonctionnement RR.png" alt="Image 3" width="60%">
+    <img src="/assets/Principe deposition.png" alt="Image 4" width="50%">
+    <img src="/assets/3couches.png" alt="Image 3" width="50%">
 </div>
-<div style="display:flex; align-items:center;">
-    <img src="/assets/Principe deposition.png"  width="30%" style="margin-right:10px;">
-    <p style="margin-left:10px;">
-    </p>
-</div>
-<div style="display:flex; align-items:center;">
-    <img src="/assets/3couches.png"  width="30%" style="margin-right:10px;">
-    <p style="margin-left:10px;">
-    </p>
-</div>
+<p> ... </p>
 
 
 ### Méthodes d'analyses
 
 <div style="display:flex; align-items:center;">
-    <img src="/assets/MEB.png"  width="30%" style="margin-right:10px;">
+    <img src="/assets/MEB.png"  width="60%" style="margin-right:10px;">
     <p style="margin-left:10px;">
     </p>
 </div>
 <div style="display:flex; align-items:center;">
-    <img src="/assets/DRX.png"  width="30%" style="margin-right:10px;">
+    <img src="/assets/DRX.png"  width="50%" style="margin-right:10px;">
     <p style="margin-left:10px;">
     </p>
 </div>
