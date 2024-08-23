@@ -6,12 +6,12 @@ img_alt: Image couverture de projet
 description: |
   
 tags: 
-  - Mener une campagne de mesures-n°2
+  - Caractérisation de grandeur chimique-n°2
+  - Anglais professionel
   - Déployer la métrologie et la démarche qualité-n°2
-  - Mettre en oeuvre une chaîne de mesure et d'instrument-n°2
 ---
 <div style="display:flex; justify-content:center;">
-    <img src="/assets/Chaine-spectro.png" alt="Image 4" width="150%">
+    <img src="/assets/Chaine-stage.png" alt="Image 4" width="150%">
 </div>
 
 ### Objectif
@@ -28,13 +28,13 @@ tags:
 ### Le cadre du projet
 
 <div style="display:flex; align-items:center;">
-    <img src="/assets/Présentation projet.png"  width="80%" style="margin-right:10px;">
-    <p style="margin-left:10px;">
-    </p>
+    <img src="/assets/Présentation projet.png"  width="89%" style="margin-right:10px;"style="margin-left:10px;">
 </div>
+
 <div style="display:flex; align-items:center;">
     <img src="/assets/valeur Ta3N5.png"  width="30%" style="margin-right:10px;">
     <p style="margin-left:10px;">
+
     </p>
 </div>
 
@@ -55,7 +55,7 @@ tags:
 </div>
 
 <div style="display:flex; justify-content:center;">
-    <img src="/assets/Fonctionnement RR.png" alt="Image 3" width="60%">
+    <img src="/assets/Fonctionnement RR.png" alt="Image 3" width="50%">
     <img src="/assets/Principe deposition.png" alt="Image 4" width="50%">
     <img src="/assets/3couches.png" alt="Image 3" width="50%">
 </div>
@@ -70,7 +70,7 @@ tags:
     </p>
 </div>
 <div style="display:flex; align-items:center;">
-    <img src="/assets/DRX.png"  width="50%" style="margin-right:10px;">
+    <img src="/assets/DRX.png"  width="40%" style="margin-right:10px;">
     <p style="margin-left:10px;">
     </p>
 </div>
