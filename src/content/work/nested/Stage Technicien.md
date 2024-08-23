@@ -1,7 +1,7 @@
 ---
 title: Stage Technicien
 publishDate: 2020-03-04 00:00:00
-img: /assets/Projet spectrometre.png
+img: /assets/Stage technicien.png
 img_alt: Image couverture de projet
 description: |
   
@@ -11,7 +11,7 @@ tags:
   - Déployer la métrologie et la démarche qualité-n°2
 ---
 <div style="display:flex; justify-content:center;">
-    <img src="/assets/Chaine-stage.png" alt="Image 4" width="150%">
+    <img src="/assets/Chaine-stage.png" alt="Image 4" width="10%">
 </div>
 
 ### Objectif
