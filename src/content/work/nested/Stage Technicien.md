@@ -14,21 +14,21 @@ tags:
     <img src="/assets/Chaine-spectro.png" alt="Image 4" width="150%">
 </div>
 
-#### Objectif
+### Objectif
 
 
 ### Présentation du Laboratoire de Recherche
 
 <div style="display:flex; align-items:center;">
-    <img src="/assets/Présentation labo.png"  width="30%" style="margin-right:10px;">
+    <img src="/assets/Présentation labo.png"  width="50%" style="margin-right:10px;">
     <p style="margin-left:10px;">
     </p>
 </div>
 
-#### Le cadre du projet
+### Le cadre du projet
 
 <div style="display:flex; align-items:center;">
-    <img src="/assets/Présentation projet.png"  width="30%" style="margin-right:10px;">
+    <img src="/assets/Présentation projet.png"  width="60%" style="margin-right:10px;">
     <p style="margin-left:10px;">
     </p>
 </div>
@@ -83,5 +83,5 @@ tags:
     </p>
 </div>
 
-#### Résultat et discussion
+### Résultat et discussion
 
