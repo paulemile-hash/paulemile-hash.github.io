@@ -54,8 +54,9 @@ Déterminer les paramètres préférentiels d'un dopage sur photoanode de Ta3N5 
 
 <div style="display:flex; align-items:center;">
     <img src="/assets/RR.png"  width="80%" style="margin-right:10px;"style="margin-left:10px;">
-    <p> Pour réaliser ses couches minces, nous avons utilisé un système sous vide de pulvérisation magnétron à courant continu (DCMS).</p>
 </div>
+
+<p> Pour réaliser ses couches minces, nous avons utilisé un système sous vide de pulvérisation magnétron à courant continu (DCMS).</p>
 
 <div style="display:flex; justify-content:center;">
     <img src="/assets/Fonctionnement RR.png" alt="Image 3" width="50%">
@@ -69,9 +70,9 @@ Déterminer les paramètres préférentiels d'un dopage sur photoanode de Ta3N5 
 
 <div style="display:flex; align-items:center;">
     <img src="/assets/MEB.png"  width="60%" style="margin-right:10px;"style="margin-left:10px;">
-    <p>Une fois les échantillons récupérés, nous avons étudiéleur morphologie, leur épaisseur, leur nano-structure et leu composition au microscope électronique à balayage.</p>
-    
 </div>
+<p>Une fois les échantillons récupérés, nous avons étudiéleur morphologie, leur épaisseur, leur nano-structure et leu composition au microscope électronique à balayage.</p>
+
 <div style="display:flex; align-items:center;">
     <img src="/assets/DRX.png"  width="40%" style="margin-right:10px;">
     <p style="margin-left:10px;">Nous étudions la bonne réalisation de ses films avec un diffractomètre à rayon-X avec l'orientation de leur plan cristallin et leur taille à l'aide de la relation de SCHERRER.
