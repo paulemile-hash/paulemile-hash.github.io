@@ -53,9 +53,8 @@ Déterminer les paramètres préférentiels d'un dopage sur photoanode de Ta3N5 
 ### Principe de deposition de film
 
 <div style="display:flex; align-items:center;">
-    <img src="/assets/RR.png"  width="80%" style="margin-right:10px;">
-    <p style="margin-left:10px;"> Pour réaliser ses couches minces, nous avons utilisé un système sous vide de pulvérisation magnétron à courant continu (DCMS).
-    </p>
+    <img src="/assets/RR.png"  width="80%" style="margin-right:10px;"style="margin-left:10px;">
+    <p> Pour réaliser ses couches minces, nous avons utilisé un système sous vide de pulvérisation magnétron à courant continu (DCMS).</p>
 </div>
 
 <div style="display:flex; justify-content:center;">
@@ -69,9 +68,9 @@ Déterminer les paramètres préférentiels d'un dopage sur photoanode de Ta3N5 
 ### Méthodes d'analyses
 
 <div style="display:flex; align-items:center;">
-    <img src="/assets/MEB.png"  width="60%" style="margin-right:10px;">
-    <p style="margin-left:10px;">Une fois les échantillons récupérés, nous avons étudiéleur morphologie, leur épaisseur, leur nano-structure et leu composition au microscope électronique à balayage.
-    </p>
+    <img src="/assets/MEB.png"  width="60%" style="margin-right:10px;"style="margin-left:10px;">
+    <p>Une fois les échantillons récupérés, nous avons étudiéleur morphologie, leur épaisseur, leur nano-structure et leu composition au microscope électronique à balayage.</p>
+    
 </div>
 <div style="display:flex; align-items:center;">
     <img src="/assets/DRX.png"  width="40%" style="margin-right:10px;">
