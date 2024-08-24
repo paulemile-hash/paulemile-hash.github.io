@@ -28,12 +28,10 @@ Déterminer les paramètres préférentiels d'un dopage sur photoanode de Ta3N5 
 </div>
 
 ### Le cadre du projet
-
 <div style="display:flex; align-items:center;">
     <img src="/assets/Présentation projet.png"  width="90%" style="margin-right:10px;"style="margin-left:10px;">
-    <p>Ainsi, j'ai dû assimiler les différentes étapes permettant de produire de l'hydrogène pour déterminer les points d'améliorations.</p>
 </div>
-
+<p>Ainsi, j'ai dû assimiler les différentes étapes permettant de produire de l'hydrogène pour déterminer les points d'améliorations.</p>
 <div style="display:flex; align-items:center;">
     <img src="/assets/valeur Ta3N5.png"  width="40%" style="margin-right:10px;">
     <p style="margin-left:10px;"> Comprends le choix du Ta3N5 comme photoanode. 
@@ -43,7 +41,6 @@ Déterminer les paramètres préférentiels d'un dopage sur photoanode de Ta3N5 
 </div>
 
 ### Dopage
-
 <div style="display:flex; align-items:center;">
     <img src="/assets/dopage.png"  width="30%" style="margin-right:10px;">
     <p style="margin-left:10px;">Ainsi, nous avons cherché à appliquer au dopage pour atténuer ses défauts. Cela consiste à incorporer un autre élément chimique pour remplacer des éléments de Ta3N5.
@@ -51,13 +48,10 @@ Déterminer les paramètres préférentiels d'un dopage sur photoanode de Ta3N5 
 </div>
 
 ### Principe de deposition de film
-
 <div style="display:flex; align-items:center;">
     <img src="/assets/RR.png"  width="80%" style="margin-right:10px;"style="margin-left:10px;">
 </div>
-
 <p> Pour réaliser ses couches minces, nous avons utilisé un système sous vide de pulvérisation magnétron à courant continu (DCMS).</p>
-
 <div style="display:flex; justify-content:center;">
     <img src="/assets/Fonctionnement RR.png" alt="Image 3" width="50%">
     <img src="/assets/Principe deposition.png" alt="Image 4" width="50%">
@@ -67,12 +61,10 @@ Déterminer les paramètres préférentiels d'un dopage sur photoanode de Ta3N5 
 
 
 ### Méthodes d'analyses
-
 <div style="display:flex; align-items:center;">
     <img src="/assets/MEB.png"  width="60%" style="margin-right:10px;"style="margin-left:10px;">
 </div>
 <p>Une fois les échantillons récupérés, nous avons étudiéleur morphologie, leur épaisseur, leur nano-structure et leu composition au microscope électronique à balayage.</p>
-
 <div style="display:flex; align-items:center;">
     <img src="/assets/DRX.png"  width="40%" style="margin-right:10px;">
     <p style="margin-left:10px;">Nous étudions la bonne réalisation de ses films avec un diffractomètre à rayon-X avec l'orientation de leur plan cristallin et leur taille à l'aide de la relation de SCHERRER.
