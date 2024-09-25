@@ -220,16 +220,13 @@ const projects = (await getCollection('work'))
 		background: var(--gradient-subtle);
 		box-shadow: var(--shadow-sm);
 	}
-
 	@media (min-width: 50em) {
 		.mention-card {
 			border-radius: 1.5rem;
 			height: 9.5rem;
 		}
 	}
-
-	/* Ajout pour réduire la marge supérieure de la section "Mes Projets" */
 	section.with-background.with-cta {
-		margin-top: 0.5rem; /* Diminue la marge supérieure */
+		margin-top: 0.5rem; 
 	}
 </style>
