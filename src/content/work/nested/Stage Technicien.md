@@ -73,3 +73,8 @@ Déterminer les paramètres préférentiels d'un dopage sur photoanode de Ta3N5 
 
 ### Résultat et discussion
 En outre, avec toutes ses données récoltées, nous avons pu déterminer les paramètres optimum et les améliorations sur le propriétés photoéléctrochimiques de notre photoanode.
+
+### Bilan de compétence 
+<div style="display:flex; justify-content:center;">
+    <img src="/assets/SWOT.jpg" alt="Image 4" width="100%">
+</div>
