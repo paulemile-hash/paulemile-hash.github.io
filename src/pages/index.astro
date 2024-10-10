@@ -51,30 +51,7 @@ const projects = (await getCollection('work'))
 			</header>
 
 			<Skills />
-		</div>
-		<main class="wrapper stack gap-20 lg:gap-48">
-			<section class="section with-background with-cta">
-				<header class="section-header stack gap-2 lg:gap-4">
-					<h3>Mes Projets</h3>
-					<p>Je vous invite à découvrir mes projets réalisés dans le cadre unviversitaire ou personel.</p>
-				</header>
-				<div class="gallery">
-					<Grid variant="offset">
-						{
-							projects.map((project) => (
-								<li>
-									<PortfolioPreview project={project} />
-								</li>
-							))
-						}
-					</Grid>
-				</div>
-				<div class="cta">
-					<CallToAction href="/Projet/">
-						En voir plus
-						<Icon icon="arrow-right" size="1.2em" />
-					</CallToAction>
-				</div>
+		
 			</section>
 
 			
