@@ -11,8 +11,7 @@ tags:
   - Modélisation 3D / prototypage 
 ---
 Grâce à de nombreux sponsors, pendant près de 55 heures nous avons
-réfléchi et développé une idée révolutionnaire permettant de lutter contre
-les feux de forêts; tout cela au sein d’une équipe pluridisciplinaire de 8
+réfléchi et développé une idée innovante permettant de profiter de la chaleur dissipée par les panneaux solaire pour la convertir et l'utiliser au quotidien. Tout cela au sein d’une équipe pluridisciplinaire de 8
 personnes. À l'issue de ce week-end, nous avons remporté le 1er prix
 face à 9 autres équipes.
 
