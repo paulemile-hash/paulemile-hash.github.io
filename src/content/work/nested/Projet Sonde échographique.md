@@ -19,7 +19,7 @@ Réalisation complète d'une sonde échographique pour des tester non-destructif
 
 ### Le cadre du projet
 <div style="display:flex; align-items:center;">
-    <img src="/assets/vermon.jpg"  width="90%" style="margin-right:10px;"style="margin-left:10px;">
+    <img src="/assets/vermon.jpg"  width="50%" style="margin-right:10px;"style="margin-left:10px;">
 <p> Demande de Vermon</p>
 </div>
 
@@ -32,7 +32,7 @@ Réalisation complète d'une sonde échographique pour des tester non-destructif
 
 ### Conception de la sonde 
 <div style="display:flex; align-items:center;">
-    <img src="/assets/tube.png"  width="60%" style="margin-right:10px;">
+    <img src="/assets/tube.png"  width="40%" style="margin-right:10px;">
     <img src="/assets/Tubepla.jpg" alt="Image 3" width="50%">
     <img src="/assets/Sonde monté.jpg" alt="Image 3" width="50%">
     <p style="margin-left:10px;"> Assemblage bakinge conception 3D
@@ -41,14 +41,14 @@ Réalisation complète d'une sonde échographique pour des tester non-destructif
 
 ### Lien carte éléctronique
 <div style="display:flex; align-items:center;">
-    <img src="/assets/redpitaya.png"  width="30%" style="margin-right:10px;">
+    <img src="/assets/redpitaya.png"  width="50%" style="margin-right:10px;">
     <p style="margin-left:10px;">
     </p>
 </div>
 
 ### Application
 <div style="display:flex; justify-content:center;">
-    <img src="/assets/applisonde1.png" alt="Image 3" width="50%">
-    <img src="/assets/applisonde.png" alt="Image 4" width="50%">
+    <img src="/assets/applisonde1.png" alt="Image 3" width="60%">
+    <img src="/assets/applisonde.png" alt="Image 4" width="60%">
 </div>
 <p></p>
