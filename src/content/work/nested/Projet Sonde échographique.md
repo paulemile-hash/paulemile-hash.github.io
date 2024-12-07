@@ -25,19 +25,21 @@ Réalisation complète d'une sonde échographique pour des tester non-destructif
 
 ### Conception de la sonde 
 <div style="display:flex; align-items:center;">
-    <img src="/assets/Présentation labo.png"  width="60%" style="margin-right:10px;">
-    <p style="margin-left:10px;"> Pastile
-    </p>
+    <img src="/assets/vermon.jpg"  width="60%" style="margin-right:10px;">
+    <p style="margin-left:10px;"> Pastile</p>
+<div>
+
+<div style="display:flex; align-items:center;">
     <img src="/assets/tube.png"  width="60%" style="margin-right:10px;">
-    <img src="/assets/Tubepla.png" alt="Image 3" width="50%">
-    <img src="/assets/Sonde monté.png" alt="Image 3" width="50%">
+    <img src="/assets/Tubepla.jpg" alt="Image 3" width="50%">
+    <img src="/assets/Sonde monté.jpg" alt="Image 3" width="50%">
     <p style="margin-left:10px;"> Assemblage bakinge conception 3D
     </p>
 </div>
 
 ### Lien carte éléctronique
 <div style="display:flex; align-items:center;">
-    <img src="/assets/dopage.png"  width="30%" style="margin-right:10px;">
+    <img src="/assets/redpitaya.png"  width="30%" style="margin-right:10px;">
     <p style="margin-left:10px;">
     </p>
 </div>
