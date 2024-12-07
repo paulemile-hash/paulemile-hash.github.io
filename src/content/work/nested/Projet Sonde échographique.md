@@ -19,16 +19,18 @@ Réalisation complète d'une sonde échographique pour des tester non-destructif
 
 ### Le cadre du projet
 <div style="display:flex; align-items:center;">
-    <img src="/assets/Présentation projet.png"  width="90%" style="margin-right:10px;"style="margin-left:10px;">
-</div>
+    <img src="/assets/vermon.jpg"  width="90%" style="margin-right:10px;"style="margin-left:10px;">
 <p> Demande de Vermon</p>
+</div>
+
+### Conception de la pastille
+<div style="display:flex; align-items:center;">
+    <img src="/assets/pastille.png"  width="30%" style="margin-right:10px;">
+    <p style="margin-left:10px;">
+    </p>
+</div>
 
 ### Conception de la sonde 
-<div style="display:flex; align-items:center;">
-    <img src="/assets/vermon.jpg"  width="60%" style="margin-right:10px;">
-    <p style="margin-left:10px;"> Pastile</p>
-<div>
-
 <div style="display:flex; align-items:center;">
     <img src="/assets/tube.png"  width="60%" style="margin-right:10px;">
     <img src="/assets/Tubepla.jpg" alt="Image 3" width="50%">
