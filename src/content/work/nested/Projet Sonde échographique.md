@@ -1,7 +1,7 @@
 ---
 title: Sonde échographique
 publishDate: 2020-03-04 00:00:00
-img: /assets/Stage technicien.png
+img: /assets/Projet sonde.png
 img_alt: Image couverture de projet
 description: |
   
@@ -11,7 +11,7 @@ tags:
   - Rédaction technique
 ---
 <div style="display:flex; justify-content:center;">
-    <img src="/assets/Chaine-stage.png" alt="Image 4" width="160%">
+    <img src="/assets/Chaine sonde.png" alt="Image 4" width="160%">
 </div>
 
 ### Objectif
