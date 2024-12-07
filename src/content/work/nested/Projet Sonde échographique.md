@@ -32,7 +32,7 @@ Réalisation complète d'une sonde échographique pour des tester non-destructif
 
 ### Conception de la sonde 
 <div style="display:flex; align-items:center;">
-    <img src="/assets/tube.png"  width="40%" style="margin-right:10px;">
+    <img src="/assets/tube.png"  width="20%" style="margin-right:10px;">
     <img src="/assets/Tubepla.jpg" alt="Image 3" width="50%">
     <img src="/assets/Sonde monté.jpg" alt="Image 3" width="50%">
     <p style="margin-left:10px;"> Assemblage bakinge conception 3D
@@ -48,7 +48,7 @@ Réalisation complète d'une sonde échographique pour des tester non-destructif
 
 ### Application
 <div style="display:flex; justify-content:center;">
-    <img src="/assets/applisonde1.png" alt="Image 3" width="60%">
-    <img src="/assets/applisonde.png" alt="Image 4" width="60%">
+    <img src="/assets/applisonde1.png" alt="Image 3" width="70%">
+    <img src="/assets/applisonde.png" alt="Image 4" width="70%">
 </div>
 <p></p>
