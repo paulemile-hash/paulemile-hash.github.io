@@ -10,3 +10,6 @@ tags:
   - Déployer la métrologie et la démarche qualité-n°3
   - Rédaction technique !
 ---
+
+### En cors de réalisation
+Les documents relatifs à ce projet ne sont encore éligibles à être présenté sur mon portfolio.
