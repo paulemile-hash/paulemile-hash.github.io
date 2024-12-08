@@ -11,5 +11,5 @@ tags:
   - Rédaction technique !
 ---
 
-### En cors de réalisation
+### En cours de réalisation
 Les documents relatifs à ce projet ne sont encore éligibles à être présenté sur mon portfolio.
