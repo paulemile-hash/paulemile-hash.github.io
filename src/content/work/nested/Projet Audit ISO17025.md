@@ -5,6 +5,7 @@ img: /assets/Projet audit.png
 img_alt: Iridescent ripples of a bright blue and pink liquid
 description: |
 Réalisation d'un dossier d'accréditation ISO17025
+
 tags:
   - Déployer la métrologie et la démarche qualité-n°3
   - Rédaction technique
@@ -22,6 +23,7 @@ tags:
 <div style="text-align:center;">
     <img src="/assets/Chaine-AMGI.jpg" alt="Illustration chaine balistique" width="100%">
 </div>
+jk 
 
 ### Création budget d'incertitude
 <div style="display:flex; justify-content:center;">
