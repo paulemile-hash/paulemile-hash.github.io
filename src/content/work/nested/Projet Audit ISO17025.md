@@ -10,14 +10,14 @@ tags:
   - Rédaction technique
   - Analyse chimique-n°3
 ---
-##### Objectif
+### Objectif
 
 <div style="text-align:center;">
     <img src="/assets/logometro.png" alt="Illustration chaine balistique" width="100%">
     <p>Ce projet avait pour but de ce mettre à la place d'un laboratoire (MAPE dans notre cas) et de réaliser l'ensembles des élements nous permettant d'être accréditer à la norme ISO17025. Mais également d'aller auditer un autre groupe.</p>
 </div>
 
-##### Réalisation gamme d'étalonnage
+### Réalisation gamme d'étalonnage
 
 <div style="text-align:center;">
     <img src="/assets/Chaine-AMGI.jpg" alt="Illustration chaine balistique" width="100%">
