@@ -2,7 +2,7 @@
 title: Projet Audit ISO17025
 publishDate: 2020-03-02 00:00:00
 img: /assets/Projet audit.png
-img_alt: Iridescent ripples of a bright blue and pink liquid
+img_alt: Image couverture de projet
 description: |
 Réalisation d'un dossier d'accréditation ISO17025.
 
