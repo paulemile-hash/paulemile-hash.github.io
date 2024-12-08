@@ -19,7 +19,7 @@ Réalisation complète d'une sonde échographique pour des tester non-destructif
 
 ### Le cadre du projet
 <div style="display:flex; align-items:center;">
-    <img src="/assets/vermon.jpg"  width="50%" style="margin-right:10px;"style="margin-left:10px;">
+    <img src="/assets/vermon.jpg"  width="30%" style="margin-right:10px;"style="margin-left:10px;">
 <p> Demande de Vermon</p>
 </div>
 
@@ -35,16 +35,14 @@ Réalisation complète d'une sonde échographique pour des tester non-destructif
     <img src="/assets/tube.png"  width="20%" style="margin-right:10px;">
     <img src="/assets/Tubepla.jpg" alt="Image 3" width="50%">
     <img src="/assets/Sonde monté.jpg" alt="Image 3" width="50%">
-    <p style="margin-left:10px;"> Assemblage bakinge conception 3D
-    </p>
 </div>
+  <p> Assemblage bakinge conception 3D</p>
 
 ### Lien carte éléctronique
 <div style="display:flex; align-items:center;">
-    <img src="/assets/redpitaya.png"  width="50%" style="margin-right:10px;">
-    <p style="margin-left:10px;">
-    </p>
+    <img src="/assets/redpitaya.png"  width="60%" style="margin-right:10px;">
 </div>
+<p> </p>
 
 ### Application
 <div style="display:flex; justify-content:center;">
