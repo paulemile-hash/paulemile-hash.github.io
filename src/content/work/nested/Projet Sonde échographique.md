@@ -15,7 +15,7 @@ tags:
 </div>
 
 ### Objectif
-Réalisation complète d'une sonde échographique pour des tester non-destructifs doté d'un software de traitement de données adaptée
+Réalisation complète d'une sonde échographique pour des tester non-destructifs doté d'un software de traitement de données adaptée.
 
 ### Le cadre du projet
 <div style="display:flex; align-items:center;">
