@@ -11,11 +11,8 @@ tags:
   - Rédaction technique
 ---
 
-##### Réalisation gamme d'étalonnage
-
-<div style="text-align:center;">
-    <img src="/assets/Chaine-AMGI.jpg" alt="Illustration chaine balistique" width="100%">
-</div>
+### Objectif du projet
+Ce projet visait à prendre le rôle d'un laboratoire de recherche voulant obtenir l'accréditation à la norme ISO17025 sur le dosage de la quinine par spectrométrie fluorescente dans les boissons gazeuses. Ainsi, nous avons réalisé les documents suivants :
 
 ### Création budget d'incertitude
 <div style="display:flex; justify-content:center;">
@@ -27,11 +24,11 @@ tags:
 ### Rédation des documents processus 
 
 <div style="display:flex; justify-content:center;">
-    <img src="/assets/5S.png" alt="Illustration Charte graphique" width="30%">
-    <img src="/assets/Process1.png" alt="Illustration Charte graphique" width="30%">
-    <img src="/assets/Process2.png" alt="Illustration Charte graphique" width="30%">
-    <img src="/assets/Ishikawa.png" alt="Illustration Charte graphique" width="30%">
-    <img src="/assets/AMDEC.png" alt="Illustration Charte graphique" width="30%">
+    <img src="/assets/5S.png" alt="Illustration Charte graphique" width="50%">
+    <img src="/assets/Process1.png" alt="Illustration Charte graphique" width="50%">
+    <img src="/assets/Process2.png" alt="Illustration Charte graphique" width="50%">
+    <img src="/assets/Ishikawa.png" alt="Illustration Charte graphique" width="50%">
+    <img src="/assets/AMDEC.png" alt="Illustration Charte graphique" width="50%">
 </div>
 
 
