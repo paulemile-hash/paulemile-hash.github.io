@@ -39,6 +39,14 @@ Ce projet à pour but de ce mettre à la place d'un laboratoire d'analyse et de 
 ### Rédaction documents de processus
 <div style="display:flex; align-items:center;">
     <img src="/assets/5S.png"  width="40%" style="margin-right:10px;"style="margin-left:10px;">
+    <img src="/assets/Process1.png"  width="40%" style="margin-right:10px;"style="margin-left:10px;">
+    <img src="/assets/Process2.png"  width="40%" style="margin-right:10px;"style="margin-left:10px;">
+<p> Nous avons appliqué un chantier 5S pour faciliter l'utilisation de la machine et la rédaction de processus pour visualiser les étapes et les défis</p>
+</div>
+
+### Réalisation de l'audit
+<div style="display:flex; align-items:center;">
     <img src="/assets/grilleaudit.png"  width="40%" style="margin-right:10px;"style="margin-left:10px;">
-<p> Nous avons appliqué un chantier 5S pour faciliter l'utilisation de la machine et conçue une grille d'évaluation pour l'audit selon la norme ISO17025</p>
+<p> Nous avons conçue une grille d'évaluation pour l'audit selon la norme ISO17025 afin d'évaluer les autres groupes.</p>
+<p> </p>
 </div>
