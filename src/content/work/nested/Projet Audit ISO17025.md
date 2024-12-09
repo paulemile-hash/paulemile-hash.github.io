@@ -41,8 +41,8 @@ Ce projet à pour but de ce mettre à la place d'un laboratoire d'analyse et de 
     <img src="/assets/5S.png"  width="40%" style="margin-right:10px;"style="margin-left:10px;">
     <img src="/assets/Process1.png"  width="40%" style="margin-right:10px;"style="margin-left:10px;">
     <img src="/assets/Process2.png"  width="40%" style="margin-right:10px;"style="margin-left:10px;">
-<p> Nous avons appliqué un chantier 5S pour faciliter l'utilisation de la machine et la rédaction de processus pour visualiser les étapes et les défis</p>
 </div>
+Nous avons appliqué un chantier 5S pour faciliter l'utilisation de la machine et la rédaction de processus pour visualiser les étapes et les défis.
 
 ### Réalisation de l'audit
 <div style="display:flex; align-items:center;">
