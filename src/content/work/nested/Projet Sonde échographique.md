@@ -8,7 +8,7 @@ description: |
 tags: 
   - Caractérisation de grandeur chimique-n°3
   - Déployer la métrologie et la démarche qualité-n°3
-  - Rédaction technique
+  - Rédaction technique !
 ---
 <div style="display:flex; justify-content:center;">
     <img src="/assets/Chaine sonde.png" alt="Image 4" width="160%">
