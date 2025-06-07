@@ -1,7 +1,7 @@
 ---
-title: Stage Technicien
+title: Stage Technicien Start-Up
 publishDate: 2020-03-04 00:00:00
-img: /assets/Stage technicien.png
+img: /assets/Projet Stage Start-Up.png
 img_alt: Image couverture de projet
 description: |
   
