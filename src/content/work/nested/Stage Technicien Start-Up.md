@@ -34,9 +34,7 @@ Déterminer les paramètres préférentiels d'un dopage sur photoanode de Ta3N5 
 <p>Ainsi, j'ai dû assimiler les différentes étapes permettant de produire de l'hydrogène pour déterminer les points d'améliorations.</p>
 <div style="display:flex; align-items:center;">
     <img src="/assets/valeur Ta3N5.png"  width="40%" style="margin-right:10px;">
-    <p style="margin-left:10px;"> Comprends le choix du Ta3N5 comme photoanode. 
-    Pour son Band-gap de 2,03 eV centré par rapport à celui de H2/H2O et O2/H2O, tout en étant dans le domaine visible.
-    Cependant, un potentiel d'amorçage important (~0,8 et 1V) une présence importante de défauts natifs comme des vides d'Oxygènes ou des pièges de recombinaison de phototransporteurs.
+    <p style="margin-left:10px;"> 
     </p>
 </div>
 
