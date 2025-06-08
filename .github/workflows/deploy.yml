@@ -14,17 +14,16 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout your repository
+      - name: Checkout repository
         uses: actions/checkout@v4
 
-      - name: Install, build, and upload your site
-        uses: withastro/action@v0
-        # (décommente les options ici si besoin)
+      - name: Build with Astro
+        uses: withastro/action@v2
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v1
         with:
-          path: ./dist  # Change ce chemin si ta build Astro sort ailleurs
+          path: ./dist
 
   deploy:
     needs: build
