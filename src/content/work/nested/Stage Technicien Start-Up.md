@@ -17,8 +17,7 @@ tags:
 *Les recherches que j'ai menées sont classées confidentielles aussi, tout les détaille ne seront pas mentionnés.
 
 ### Objectif
-Déterminer les paramètres préférentiels d'un dopage sur photoanode de Ta3N5 dans le cas de la photoéléctrolyse, pour produire de l'hydrogène verte.
-
+Déterminer les paramètres préférentiels d'un dopage sur photoanode de Ta3N5 dans le cas de la photoéléctrolyse, pour produire de l'
 ### Présentation du Laboratoire de Recherche
 
 <div style="display:flex; align-items:center;">
