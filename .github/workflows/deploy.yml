@@ -14,16 +14,16 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout code
+      - name: Checkout
         uses: actions/checkout@v4
 
-      - name: Install dependencies
+      - name: Install deps
         run: npm ci
 
-      - name: Build Astro site
+      - name: Build Astro
         run: npm run build
 
-      - name: Upload artifact with v4
+      - name: Upload artifact
         uses: actions/upload-artifact@v4
         with:
           name: github-pages
@@ -45,3 +45,5 @@ jobs:
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v2
+        with:
+          path: ./dist
