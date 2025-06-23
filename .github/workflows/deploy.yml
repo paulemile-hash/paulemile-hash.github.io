@@ -17,13 +17,18 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
 
-      - name: Build with Astro
-        uses: withastro/action@v2
+      - name: Install dependencies and build
+        run: |
+          npm install
+          npm run build
 
-      - name: Upload artifact
-        uses: actions/upload-pages-artifact@v1
+      - name: Upload artifact (v4)
+        uses: actions/upload-artifact@v4
         with:
-          path: ./dist  # Chemin de sortie du build Astro
+          name: github-pages
+          path: ./dist
+          if-no-files-found: error
+          retention-days: 7
 
   deploy:
     needs: build
