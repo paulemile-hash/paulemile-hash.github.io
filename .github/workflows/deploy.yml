@@ -14,21 +14,21 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout repository
+      - name: Checkout
         uses: actions/checkout@v4
 
-      - name: Cache APT packages
-        uses: awalsh128/cache-apt-pkgs-action@v1.4.3
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
         with:
-          packages: 'curl git'
-          version: 1
+          node-version: 18
 
-      - name: Install dependencies and build Astro site
-        run: |
-          npm install
-          npm run build
+      - name: Install dependencies
+        run: npm install
 
-      - name: Upload artifact to GitHub Pages
+      - name: Build the site
+        run: npm run build
+
+      - name: Upload artifact
         uses: actions/upload-pages-artifact@v1
         with:
           path: ./dist
