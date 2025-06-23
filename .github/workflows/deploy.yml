@@ -23,7 +23,7 @@ jobs:
           npm run build
 
       - name: Upload build output to GitHub Pages
-        uses: actions/upload-pages-artifact@v1
+        uses: actions/upload-pages-artifact@v4
         with:
           path: ./dist  # ← le dossier généré par Astro oeoeoe
 
