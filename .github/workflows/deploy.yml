@@ -17,18 +17,15 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
 
-      - name: Install dependencies and build
+      - name: Install dependencies and build Astro site
         run: |
           npm install
           npm run build
 
-      - name: Upload artifact (v4)
-        uses: actions/upload-artifact@v4
+      - name: Upload build output to GitHub Pages
+        uses: actions/upload-pages-artifact@v1
         with:
-          name: github-pages
-          path: ./dist
-          if-no-files-found: error
-          retention-days: 7
+          path: ./dist  # ← le dossier généré par Astro
 
   deploy:
     needs: build
