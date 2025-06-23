@@ -2,7 +2,7 @@ name: Deploy to GitHub Pages
 
 on:
   push:
-    branches: [ main ]
+    branches: [main]
   workflow_dispatch:
 
 permissions:
@@ -14,21 +14,16 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout
+      - name: Checkout source
         uses: actions/checkout@v4
 
-      - name: Setup Node.js
-        uses: actions/setup-node@v4
-        with:
-          node-version: 18
-
       - name: Install dependencies
-        run: npm install
+        run: npm ci
 
-      - name: Build the site
+      - name: Build Astro site
         run: npm run build
 
-      - name: Upload artifact
+      - name: Upload build output
         uses: actions/upload-pages-artifact@v1
         with:
           path: ./dist
@@ -42,4 +37,4 @@ jobs:
     steps:
       - name: Deploy to GitHub Pages
         id: deployment
-        uses: actions/deploy-pages@v4
+        uses: actions/deploy-pages@v1
