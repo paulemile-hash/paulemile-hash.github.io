@@ -2,7 +2,7 @@ name: Deploy to GitHub Pages
 
 on:
   push:
-    branches: [main]
+    branches: [ main ]
   workflow_dispatch:
 
 permissions:
@@ -17,19 +17,13 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
 
-      - name: Setup Node.js
-        uses: actions/setup-node@v4
-        with:
-          node-version: latest
+      - name: Install dependencies and build Astro site
+        run: |
+          npm ci
+          npm run build
 
-      - name: Install dependencies
-        run: npm install
-
-      - name: Build Astro site
-        run: npm run build
-
-      - name: Upload artifact to GitHub Pages
-        uses: actions/upload-pages-artifact@v1
+      - name: Upload built site
+        uses: awalsh128/cache-apt-pkgs-action@v1.4.3
         with:
           path: ./dist
 
