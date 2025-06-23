@@ -25,7 +25,7 @@ jobs:
       - name: Upload build output to GitHub Pages
         uses: actions/upload-pages-artifact@v1
         with:
-          path: ./dist  # ← le dossier généré par Astro
+          path: ./dist  # ← le dossier généré par Astro oeoeoe
 
   deploy:
     needs: build
